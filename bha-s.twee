@@ -579,7 +579,7 @@ h3 {
   font-size: 14px;
   line-height: 1.5;
   color: #333333;
-  background-color: #fff;
+  background-color: #FFFFFF;
 }
 
 .modal-window {
