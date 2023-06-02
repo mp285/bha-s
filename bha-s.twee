@@ -300,19 +300,6 @@ color invert <- white background
 
 
 :: the feed that hands you {"position":"1300,300","size":"100,100"}
-config.style.googleFont: '<link href="https://fonts.googleapis.com/css2?family=Arimo&family=Megrim&family=Raleway&display=block" rel="stylesheet">'
-config.style.page.font: "Arimo/Arial/sans serif"
-config.style.page.color: "gray-9 on white"
-config.style.page.link.font: "underline"
-config.style.page.link.color: "blue"
-config.style.page.link.lineColor: "blue"
-config.style.page.link.active.color: "blue"
-config.style.page.header.font: "16"
-config.style.page.header.link.font: "small caps"
-config.style.page.footer.font: "16"
-config.style.page.footer.link.font: "small caps"
-
---
   
 <div class="lcontainer" width="100%">
 <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/rc51apms.gif" width="100%" ></div>
