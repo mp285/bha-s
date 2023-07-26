@@ -113,24 +113,6 @@ A few weeks later I began working on “Black Haunts in the Anthropocene,” whi
 Before continuing with this site, I ask that you take a moment to click [[here]] and visit that previous post. It will open in a separate window, so that you can return here when you are done. It includes a link to the Johnston essay, which is useful to this discussion. It is also worthwhile to check out some of Ben Schmidt’s other visualizations.
 
 
-:: See More {"position":"300,100","size":"100,100"}
-<div class="pages"><center>
-[[Preamble ->Preamble]] 
-[[-> Now reset to 0 ]] 
-[[And then a pause -> The Lossy Everyday]] 
-[[Common Sympathy ->for the children]] 
-[[Haunting down data]] 
-[[#blacklivesmatter ->blm_webkit]] 
-</center></div>
-
-<div class="bottomlinks"><center>
-* 
-[[with or without me]] 
-[[Mapping]] 
-[[Slumbers]] 
-[[the feed that hands you]] 
-</center></div>
-
 
 :: Slumbers {"position":"800,300","size":"100,100"}
 <div class="lcontainer" width="100%" height="200">
@@ -304,8 +286,22 @@ What does all of this mean for black people?
 
 <div class="author">Marisa Parham</div>
 
-<div class="button">[[See More]]</div>
+<div class="pages"><center>
+[[Preamble ->Preamble]] 
+[[-> Now reset to 0 ]] 
+[[And then a pause -> The Lossy Everyday]] 
+[[Common Sympathy ->for the children]] 
+[[Haunting down data]] 
+[[#blacklivesmatter ->blm_webkit]] 
+</center></div>
 
+<div class="bottomlinks"><center>
+* 
+[[with or without me]] 
+[[Mapping]] 
+[[Slumbers]] 
+[[the feed that hands you]] 
+</center></div>
 
 
 :: popover snippets {"position":"1500,100","size":"100,100"}
