@@ -73,7 +73,7 @@ Affectively, an important element of  <i>Black Haunts in the Anthropocene</i> is
 
 :: Now reset to 0 [about] {"position":"500,100","size":"100,100"}
 
- div class="lcontainer" width="100%" height="200">
+ <div class="lcontainer" width="100%" height="200">
 	<h2><center>Now reset to 0</center></h2>
     <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/list2.png">
 </div>
@@ -162,7 +162,7 @@ There is also a sense that some marks will better sustain than others, and with 
 
 What is striking in the Matthew poem, and is concurrent with Nowivskie’s text, is the poet’s desire to mark slipped time, of knowing that the future has already arrived, even as we labor to produce the arts and humanities that speak to the current yet receding epoch. As Nowivskie puts it, “even while we delight in building the shiny and the new…we know that someone, sooner or later, curates bits against our ruins.” Much of the work of the digital humanities is the work of recovery, even as we know ourselves as subject to the same kind of disappearance.  <<link "The importance of the doing is the doing,">><<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/queering-slavery-snip.png]]<</popover>><</link>> even as an act of productive protest against that which has not been done.
 
- The digitalist understands that she cannot know to which future her work is pitched, and as our history of media continues to extend, we only increase our sense of the lost and the lose-able. Loss, as Nowivskie postulates it, is “a kind of substrate” to the work of the humanities, and especially to the digital humanities. Looking at our own tablets, wondering what will remain, we are in common sympathy.
+The digitalist understands that she cannot know to which future her work is pitched, and as our history of media continues to extend, we only increase our sense of the lost and the lose-able. Loss, as Nowivskie postulates it, is “a kind of substrate” to the work of the humanities, and especially to the digital humanities. Looking at our own tablets, wondering what will remain, we are in common sympathy.
  
 It bears repeating: Even though “the digital” is still our cultural sign for the new, for futurity, digital products have no future, at least not one that we imagine them in address. The same can be said for myself. [[⇢->for the children]]
 
@@ -199,7 +199,7 @@ It bears repeating: Even though “the digital” is still our cultural sign for
  In <i>Beloved</i>, we are witness to antiphony when we hear, in Baby Sugg’s sermon, the voices voicing <a href="https://youtu.be/3vRFLgbIUWQ" target="_blank">in the film version of this scene</a>. It is also in the clockwise and counterclockwise movements of the participants, the turning of the clock, gears backward and forward, forward and back. 
 </div>
 <hr class="rounded">
- In There is No Software, media theorist Friedrich Kittler elaborates on the distinction between the kinds of software that drove earlier processors, versus the increasingly graphical interfaces – IFTTT is today's best example — that disappear the mechanism by which a machine is controlled, insofar as “perfect graphic user interfaces, since they dispense with writing itself, hide a whole machine from its users.” In thinking of the graphic antiphony we’re given in the film version of <i>Beloved</i>, and thinking it against Sethe’s “rememory,” I also hear Kittler’s invocation of the digital’s own root origin, which has also become its antithesis:
+ In "There is No Software,"" media theorist Friedrich Kittler elaborates on the distinction between the kinds of software that drove earlier processors, versus the increasingly graphical interfaces – IFTTT is today's best example — that disappear the mechanism by which a machine is controlled, insofar as “perfect graphic user interfaces, since they dispense with writing itself, hide a whole machine from its users.” In thinking of the graphic antiphony we’re given in the film version of <i>Beloved</i>, and thinking it against Sethe’s “rememory,” I also hear Kittler’s invocation of the digital’s own root origin, which has also become its antithesis:
 <blockquote>This structural difference can be easily illustrated. “A combination lock,” for instance, “is a finite automaton, but it is not ordinarily decomposable into a base set of elementary-type components that can be reconfigured to simulate an arbitrary physical system. As a consequence it is not structurally programmable, and in this case it is effectively programmable only in the limited sense that its state can be set for achieving a limited class of behaviours.” On the contrary, “a digital computer used to simulate a combination lock is structurally programmable since the behaviour is achieved by synthesizing it from a canonical set of primitive switching components.”</blockquote>
  Like the digital, rememory is that which has origin, but is also discrete from it, unrooted. This video, directed by Hiro Murai for Flying Lotus (featuring Kendrick Lamar!), demonstrates this unrootedness. It’s beauty, like those closing line of <i>Song of Solomon</i>, cloak the violence of the uprootedness we can assume lay at the visual story’s own origin, the death of children here remediated into an ecstatic animation:  <iframe src="https://player.vimeo.com/video/108194249?h=eb5e189c32" height="360" width="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
@@ -475,6 +475,7 @@ Before you move on, if it is in your head and you can’t get it out, this. Now 
 
 :: StoryStylesheet [stylesheet]
 /* landing_page */
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
 
 .lcontainer {
   position: relative;
@@ -555,7 +556,7 @@ h1 {
 }
 
 body {
-    font-family: 'Helvetica','Arimo', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     line-height: 1.5;
     color: #333333;
