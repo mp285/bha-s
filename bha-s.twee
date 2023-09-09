@@ -7,7 +7,7 @@ bha-s is my title
   "ifid": "142d92f1-2ffc-40a6-a6ea-70772c34a87d",
   "format": "SugarCube",
   "format-version": "2.36.1",
-  "start": "landing_page",
+  "start": "Preamble",
   "tag-colors": {
     "rail": "blue",
     "tie": "orange",
@@ -102,7 +102,11 @@ Exploration 3 :: loving monsters or, the deep time of afrofuturism
     <img class ="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/cropped-MauryMetadata2.png" height="200" width="100%">
 </div>
 
-This project, which is still a work in progress, is an elaboration on a set of ideas I first started working with on my process blog, <a href= "https://mp285.com/" target="_blank">mp285.com</a>. It began with a data visualization by Ben Schmidt, which I stumbled across on my Facebook feed. The map, and the other images collected at the site from which it came, affected me deeply. I was unsure why, but there was something about all the motion, the movement:
+<div class="title">BLACK HAUNTS IN THE ANTHROPOCENE</div>
+
+<div class="author">Marisa Parham</div>
+
+This project, which is still a work in progress, is an elaboration on a set of ideas I first started working with on my process blog, <a href= "https://mp285.com/nb" target="_blank">mp285.com/nb</a>. It began with a data visualization by Ben Schmidt, which I stumbled across on my Facebook feed. The map, and the other images collected at the site from which it came, affected me deeply. I was unsure why, but there was something about all the motion, the movement:
 <img class="inText" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/fx-black-haunts-tweet1.png">
  
 A few weeks later I began working on “Black Haunts in the Anthropocene,” which was written as a stream of consciousness response to a review essay in <i>The Boston Review</i>, a piece by Mark Johnston entitled “Is Life a Ponzi Scheme?” Though they are ostensibly unconnected, the Johnston essay for some reason organized some of my feelings about the map image that I hadn’t quite been able to navigate beforehand. This sense of things coalescing was especially striking because I had come across both pieces while cruising my social media networks. My original posting was thus also informed by a feeling of things [[coming together with or without me->with or without me]], through clicks that, in retrospect, I cannot characterize as intentional or not. Just clicks.
@@ -287,10 +291,10 @@ What does all of this mean for black people?
 <div class="author">Marisa Parham</div>
 
 <div class="pages"><center>
-[[Preamble ->Preamble]] 
+[[Preamble -> Preamble]] 
 [[-> Now reset to 0 ]] 
 [[And then a pause -> The Lossy Everyday]] 
-[[Common Sympathy ->for the children]] 
+[[Common Sympathy -> for the children]] 
 [[Haunting down data]] 
 [[#blacklivesmatter ->blm_webkit]] 
 </center></div>
