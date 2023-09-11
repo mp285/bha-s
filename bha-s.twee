@@ -17,7 +17,7 @@ bha-s is my title
 }
 
 
-:: Haunting down data [code] {"position":"1100,650","size":"100,100"}
+:: Haunting down data [code] {"position":"233,305"}
 <div class="lcontainer" width="100%" height="200">
 	<h2><center>Haunting down data</center></h2>
     <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/map.gif">
@@ -46,7 +46,7 @@ At one point in UbiSoft's <i>Freedom Cry</i>, the protagonist you play, Adewale,
  Or maybe just hit [[Slumbers]] // appears if un-visited
 
 
-:: Mapping {"position":"800,725","size":"100,100"}
+:: Mapping {"position":"422,291"}
 <div class="lcontainer" width="100%" height="200">
 <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/Twitter-Ferguson1.jpg">
 </div>
@@ -60,7 +60,7 @@ At one point in UbiSoft's <i>Freedom Cry</i>, the protagonist you play, Adewale,
 <<return "Return">>
 
 
-:: Notes [about] {"position":"300,1100","size":"100,100"}
+:: Notes [about] {"position":"634,1269"}
 Preamble
 
 The original post includes a link to the Johnston essay, which is useful to this discussion.
@@ -70,7 +70,7 @@ It is also worthwhile to check out some of Ben Schmidt's other visualizations.
 <<return "back">>
 
 
-:: Now reset to 0 [about] {"position":"150,300","size":"100,100"}
+:: Now reset to 0 [about] {"position":"3,708"}
 <i> Let me begin with a quick caveat, an explanation, a request, and a “thank you”:</i>
 
 <b>A caveat ⇢</b> Throughout this site I rely on lots of links to short articles and such, to help readers get a sense of the sense of the anthropocene that I am working with. Many of these links are not to any kind of authoritative source. That is intentional. The “anthropocene” is a recent term and, while it is meaningful in scientific circles, it is important that the term has been circulating heavily outside of such structures. Indeed, part of what I find interesting about the term is how we use it to capture an important sense of indeterminancy, a sense that “something” has happened, is happening, but that its meaningfulness is difficult to discern, even as its effects are felt. We are out of sync with the future. 
@@ -91,7 +91,7 @@ Exploration 2 :: digital melancholia and “the future of time”
 Exploration 3 :: loving monsters or, the deep time of afrofuturism
 
 
-:: Preamble {"position":"100,100","size":"100,100"}
+:: Preamble {"position":"0,437"}
 BLACK HAUNTS IN THE ANTHROPOCENE
 Marisa Parham
 
@@ -145,7 +145,7 @@ I am not sure though, that this other place would be like [[this place->the feed
  [[ Or will you dwell?->blm_webkit]] 
 
 
-:: StoryMenu {"position":"75,800","size":"100,100"}
+:: StoryMenu {"position":"1,853","size":"200,200"}
 [[Preamble]] 
 [[Now reset to 0]] 
 [[And then a pause ->The Lossy Everyday]] 
@@ -172,40 +172,40 @@ I am not sure though, that this other place would be like [[this place->the feed
 <A HREF="javascript:window.print()">Click to Print This Page</A>
 <input type="button" value="Print" onClick="window.print()">
 
-:: The lost baby poem {"position":"234,903"}
+:: The lost baby poem {"position":"1316,509"}
 
 
-:: backwater blues {"position":"85,800","size":"100,100"}
+:: backwater blues {"position":"1168,604"}
 
 
-:: The Salton Sea {"position":"95,800","size":"100,100"}
+:: The Salton Sea {"position":"593,277"}
 
 
-:: Black is the Beach {"position":"125,800","size":"100,100"}
+:: Black is the Beach {"position":"230,109"}
 
 
-:: Methane and other miasmas {"position":"85,820","size":"100,100"}
+:: Methane and other miasmas {"position":"10,256"}
 
 
-:: As {"position":"85,850","size":"100,100"}
+:: As {"position":"199,601"}
 
 
-:: Ferguson {"position":"85,900","size":"100,100"}
+:: Ferguson {"position":"387,123"}
 
 
-:: Null Island {"position":"95,1000","size":"100,100"}
+:: Null Island {"position":"535,145"}
 
 
-:: No Scrubs {"position":"105,1000","size":"100,100"}
+:: No Scrubs {"position":"866,136"}
 
 
-:: Dismal Swamp {"position":"125,1200","size":"100,100"}
+:: Dismal Swamp {"position":"702,134"}
 
 
-:: Matthew poems {"position":"155,1500","size":"100,100"}
+:: Matthew poems {"position":"970,568"}
 
 
-:: The Lossy Everyday {"position":"875,175","size":"100,100"}
+:: The Lossy Everyday {"position":"915,409"}
 <div class="lcontainer">
 	<h2><center>And then a pause ⇢ The Lossy Everyday</center></h2>
     <img class ="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/cropped-KoS.jpg" height="300" width="100%">
@@ -238,7 +238,7 @@ The digitalist understands that she cannot know to which future her work is pitc
 It bears repeating: Even though “the digital” is still our cultural sign for the new, for futurity, digital products have no future, at least not one that we imagine them in address. The same can be said for myself-- [[or for anyone else->for the children]]
 
 
-:: blm_webkit {"position":"1250,75","size":"100,100"}
+:: blm_webkit {"position":"1085,202"}
 <div class="lcontainer">
     <h2><center>#blacklivesmatter</center></h2>
     <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/flyinglotusvid_0210142.jpg" width="100%" height="200">
@@ -305,7 +305,7 @@ What does all of this [[mean->blm_webkit]]  for black people?
 </div>
 
 
-:: the feed that hands you [code] {"position":"550,100","size":"100,100"}
+:: the feed that hands you [code] {"position":"697,653"}
 <div class="lcontainer" width="100%">
 <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/rc51apms.gif" width="100%" ></div>
 
@@ -352,7 +352,7 @@ And then I am fed a <i>Scandal</i> meme.
 </div>
 
 
-:: with or without me [code] {"position":"475,825","size":"100,100"}
+:: with or without me [code] {"position":"637,447"}
 <div class="lcontainer" width="100%" height="200">
 	<h2><center>[with or without me]</center></h2>
     <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/suggs-header-1.png">
@@ -402,7 +402,7 @@ If it is in your head and you can't get it out, this. // unfold link
 Now [[ou can move on->Slumbers]]. Maybe.
 Or [[just dwell->The Lossy Everyday]].
 
-:: popover snippets {"position":"575,1100","size":"100,100"}
+:: popover snippets {"position":"392,1270"}
 <<link "Click me!">>
     <<popover 'opaque'>>\
         Once upon a time... In a distant land...
@@ -424,7 +424,7 @@ color invert <- white background
 <</link>>
 
 
-:: snippets {"position":"425,1100","size":"100,100"}
+:: snippets {"position":"506,1274"}
 <div class="lcontainer" width="100%" height="200">
 	<h2><center>Now reset to 0</center></h2>
     <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/list2.png">
