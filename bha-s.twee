@@ -1,6 +1,4 @@
 :: StoryTitle
-bha-s is my title
-
 
 :: StoryData
 {
@@ -11,13 +9,38 @@ bha-s is my title
   "tag-colors": {
     "rail": "blue",
     "tie": "none",
-    "about": "purple"
+    "about": "purple",
+    "new": "green",
+    "structure": "red"
   },
-  "zoom": 0.6
+  "zoom": 1
 }
 
 
-:: Haunting down data [code] {"position":"233,305"}
+:: As {"position":"1150,550","size":"100,100"}
+The End
+
+
+
+:: Black is the Beach [new] {"position":"1200,200","size":"100,100"}
+
+
+
+:: Dismal Swamp {"position":"500,25","size":"100,100"}
+no map
+
+map and terrain
+
+Dionne Brand
+
+<<return "Back">>
+
+
+:: Ferguson {"position":"425,150","size":"100,100"}
+<<return "Back">>
+
+
+:: Haunting down data [code] {"position":"200,225","size":"100,100"}
 <div class="lcontainer" width="100%" height="200">
 	<h2><center>Haunting down data</center></h2>
     <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/map.gif">
@@ -44,9 +67,11 @@ At one point in UbiSoft's <i>Freedom Cry</i>, the protagonist you play, Adewale,
 
  One more push [[Mapping]] // appears if didn't click mapping link
  Or maybe just hit [[Slumbers]] // appears if un-visited
+ 
+ [[Ferguson]] 
 
 
-:: Mapping {"position":"422,291"}
+:: Mapping {"position":"200,50","size":"100,100"}
 <div class="lcontainer" width="100%" height="200">
 <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/Twitter-Ferguson1.jpg">
 </div>
@@ -59,8 +84,24 @@ At one point in UbiSoft's <i>Freedom Cry</i>, the protagonist you play, Adewale,
  
 <<return "Return">>
 
+[[Dismal Swamp]] 
+[[Ferguson]] 
 
-:: Notes [about] {"position":"634,1269"}
+
+:: Matthew poems {"position":"800,650","size":"100,100"}
+[[As]] <- highly contingent 
+
+
+
+:: Miasmas [new] {"position":"1200,300","size":"100,100"}
+
+
+
+:: No Scrubs {"position":"975,650","size":"100,100"}
+[[As]] <- highly contingent
+
+
+:: Notes [about] {"position":"25,75","size":"100,100"}
 Preamble
 
 The original post includes a link to the Johnston essay, which is useful to this discussion.
@@ -70,14 +111,14 @@ It is also worthwhile to check out some of Ben Schmidt's other visualizations.
 <<return "back">>
 
 
-:: Now reset to 0 [about] {"position":"3,708"}
+:: Now reset to 0 [about] {"position":"25,200","size":"100,100"}
 <i> Let me begin with a quick caveat, an explanation, a request, and a “thank you”:</i>
 
 <b>A caveat ⇢</b> Throughout this site I rely on lots of links to short articles and such, to help readers get a sense of the sense of the anthropocene that I am working with. Many of these links are not to any kind of authoritative source. That is intentional. The “anthropocene” is a recent term and, while it is meaningful in scientific circles, it is important that the term has been circulating heavily outside of such structures. Indeed, part of what I find interesting about the term is how we use it to capture an important sense of indeterminancy, a sense that “something” has happened, is happening, but that its meaningfulness is difficult to discern, even as its effects are felt. We are out of sync with the future. 
 
- <b>Let me explain something ⇢</b> As you might have guessed, <i>Black Haunts in the Anthropocene</i> is a digital essay. It is important that it be digital because my argument is driven by a sense that our contemporary consciousness of the anthropocene is in itself a media effect. For me, there is something nascent here that speaks to a sense of human time that has been influenced by our daily experience of the digital. I, nor anyone else at this point, can make the call on whether the changes in our world were to come [[with or without us->with or without me]]. But it may in fact be the case that our apprehension of this moment is made possible through an increased attenuation. In this sense “digital” marks a kind of movement, and this essay, though somewhat static nonetheless, can at least present its various texts in their proper forms.
+ <b>Let me explain something ⇢</b> As you might have guessed, <i>Black Haunts in the Anthropocene</i> is a digital essay. It is important that it be digital because my argument is driven by a sense that our contemporary consciousness of the anthropocene is in itself a media effect. For me, there is something nascent here that speaks to a sense of human time that has been influenced by our daily experience of the digital. I, nor anyone else at this point, can make the call on whether the changes in our world were to comewith or without us.  But it may in fact be the case that our apprehension of this moment is made possible through an increased attenuation. In this sense “digital” marks a kind of movement, and this essay, though somewhat static nonetheless, can at least present its various texts in their proper forms.
  
- <b>No, really ⇢ <i>Please.</i></b> The media forms represented in this essay are here for a reason,  links link, music plays, [[and the short film <i>Pumzi</i> is incredibly important.->Slumbers]] Please allow time to experience the various texts presented in the course of this argument. Avoid the impulse to privilege reading over the other kinds of representation in this essay. If modality weren’t on the table, I would have just sent you some photocopies. (You, whoever you are!)
+ <b>No, really ⇢ <i>Please.</i></b> The media forms represented in this essay are here for a reason,  links link, music plays, and the short film <i>Pumzi</i> is incredibly important. Please allow time to experience the various texts presented in the course of this argument. Avoid the impulse to privilege reading over the other kinds of representation in this essay. If modality weren’t on the table, I would have just sent you some photocopies. (You, whoever you are!)
  
  And finally, a thank you ⇢ Thank you to anyone who takes the time to play with this site, but a special thanks to Princeton’s CAAS for the opportunity to present this work in progress, and to be a part of the amazing 'Black Studies in the Digital Age' workshop series. After the presentation, I will open each section for comments. I look forward to continuing our face to face conversations here.
  
@@ -90,8 +131,14 @@ Exploration 1 :: #yournamehere : between activism and the archive
 Exploration 2 :: digital melancholia and “the future of time”
 Exploration 3 :: loving monsters or, the deep time of afrofuturism
 
+<<return "Back">>
 
-:: Preamble {"position":"0,437"}
+
+:: Null Island {"position":"575,150","size":"100,100"}
+[[Dismal Swamp]] 
+
+
+:: Preamble {"position":"100,400","size":"100,100"}
 BLACK HAUNTS IN THE ANTHROPOCENE
 Marisa Parham
 
@@ -113,10 +160,12 @@ Learn more [[about this site, or how to use it->Now reset to 0]]
 
 or 
 
-[[Step into a world->the feed that hands you]] 
+[[Step into a world->the feed that hands you]]
+
+or [[dive->for the children]] 
 
 
-:: Slumbers [code] {"position":"1125,450","size":"100,100"}
+:: Slumbers [code] {"position":"425,375","size":"100,200"}
 <div class="lcontainer" width="100%" height="200">
 	<h2><center>Slumbers Seal, Slumbers Reveal</center></h2>
     <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/pumzi-head.png">
@@ -142,10 +191,10 @@ It was during that visit to the Studio Museum that I first I saw <i>Pumzi</i>, a
 
 I am not sure though, that this other place would be like [[this place->the feed that hands you]], where we are reading right now. 
  
- [[ Or will you dwell?->blm_webkit]] 
+ [[ Or will you dwell?->blm_webkit]]
 
 
-:: StoryMenu {"position":"1,853","size":"200,200"}
+:: StoryMenu [structure] {"position":"100,575","size":"200,200"}
 [[Preamble]] 
 [[Now reset to 0]] 
 [[And then a pause ->The Lossy Everyday]] 
@@ -161,7 +210,6 @@ I am not sure though, that this other place would be like [[this place->the feed
 [[backwater blues]]
 [[The Salton Sea]]
 [[Black is the Beach]]
-[[Methane and other miasmas]]
 [[As]]
 [[Ferguson]]
 [[Null Island]]
@@ -172,40 +220,8 @@ I am not sure though, that this other place would be like [[this place->the feed
 <A HREF="javascript:window.print()">Click to Print This Page</A>
 <input type="button" value="Print" onClick="window.print()">
 
-:: The lost baby poem {"position":"1316,509"}
 
-
-:: backwater blues {"position":"1168,604"}
-
-
-:: The Salton Sea {"position":"593,277"}
-
-
-:: Black is the Beach {"position":"230,109"}
-
-
-:: Methane and other miasmas {"position":"10,256"}
-
-
-:: As {"position":"199,601"}
-
-
-:: Ferguson {"position":"387,123"}
-
-
-:: Null Island {"position":"535,145"}
-
-
-:: No Scrubs {"position":"866,136"}
-
-
-:: Dismal Swamp {"position":"702,134"}
-
-
-:: Matthew poems {"position":"970,568"}
-
-
-:: The Lossy Everyday {"position":"915,409"}
+:: The Lossy Everyday {"position":"875,450","size":"100,100"}
 <div class="lcontainer">
 	<h2><center>And then a pause ⇢ The Lossy Everyday</center></h2>
     <img class ="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/cropped-KoS.jpg" height="300" width="100%">
@@ -237,8 +253,28 @@ The digitalist understands that she cannot know to which future her work is pitc
  
 It bears repeating: Even though “the digital” is still our cultural sign for the new, for futurity, digital products have no future, at least not one that we imagine them in address. The same can be said for myself-- [[or for anyone else->for the children]]
 
+[[Matthew poems]] 
 
-:: blm_webkit {"position":"1085,202"}
+
+:: The Salton Sea [new] {"position":"1200,100","size":"100,100"}
+
+
+
+:: The lost baby poem {"position":"1025,450","size":"100,100"}
+
+
+
+
+
+[[blm_webkit]] 
+
+
+
+:: backwater blues [new] {"position":"1200,400","size":"100,100"}
+
+
+
+:: blm_webkit {"position":"950,125","size":"100,100"}
 <div class="lcontainer">
     <h2><center>#blacklivesmatter</center></h2>
     <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/flyinglotusvid_0210142.jpg" width="100%" height="200">
@@ -277,9 +313,11 @@ In Murai’s video, the visual effect of the dancers is that of bodies moving in
 
  To never be caught is to fly but, even here, to fly is to ______ . <code>[/hook video.asset #istandwithbabysuggs ?#blacklifematters]</code> 
  That isn’t an error. That is a dream in the substrate. Meanwhile, [[with or without me?:->with or without me]]
+ 
+ [[The lost baby poem]] 
 
 
-:: for the children {"position":"1300,300","size":"100,100"}
+:: for the children {"position":"900,300","size":"100,100"}
 <div class="lcontainer">
 <h2><center>Common sympathy ⇢ for the children</center></h2>
 <img class ="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/sheep2.png" height="300" width="100%">
@@ -304,8 +342,39 @@ I am thinking about the feed and what social media demands of us, as I mention i
 What does all of this [[mean->blm_webkit]]  for black people?   
 </div>
 
+[[The lost baby poem]] 
 
-:: the feed that hands you [code] {"position":"697,653"}
+
+:: popover snippets {"position":"100,850","size":"100,100"}
+<<link "Click me!">>
+    <<popover 'opaque'>>\
+        Once upon a time... In a distant land...
+
+        Chapel made a macro set that required a constant barrage of unending examples.
+    \<</popover>>
+<</link>>
+
+
+<<link "Click me!">>
+    <<popover 'noclick'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/fx-black-haunts-tweet1.png]]<</popover>>
+<</link>>
+
+
+color invert <- white background
+
+<<link "Click me!">>
+    <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/christina-quote.png]]<</popover>>
+<</link>>
+
+
+:: snippets {"position":"225,850","size":"100,100"}
+<div class="lcontainer" width="100%" height="200">
+	<h2><center>Now reset to 0</center></h2>
+    <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/list2.png">
+</div>
+
+
+:: the feed that hands you [code] {"position":"675,450","size":"100,200"}
 <div class="lcontainer" width="100%">
 <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/rc51apms.gif" width="100%" ></div>
 
@@ -351,8 +420,15 @@ And then I am fed a <i>Scandal</i> meme.
  Or remember that this is a story about [[data ->Haunting down data]] as an environment, the map and the terrain...
 </div>
 
+visit [[Null Island]]
 
-:: with or without me [code] {"position":"637,447"}
+admit [[No Scrubs]] 
+or delve into [[The Lossy Everyday]] 
+
+
+
+
+:: with or without me [code] {"position":"425,625","size":"100,100"}
 <div class="lcontainer" width="100%" height="200">
 	<h2><center>[with or without me]</center></h2>
     <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/suggs-header-1.png">
@@ -398,38 +474,7 @@ If it is in your head and you can't get it out, this. // unfold link
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6QPhpvO1pWDS91EsEmzsbc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-
-Now [[ou can move on->Slumbers]]. Maybe.
-Or [[just dwell->The Lossy Everyday]].
-
-:: popover snippets {"position":"392,1270"}
-<<link "Click me!">>
-    <<popover 'opaque'>>\
-        Once upon a time... In a distant land...
-
-        Chapel made a macro set that required a constant barrage of unending examples.
-    \<</popover>>
-<</link>>
-
-
-<<link "Click me!">>
-    <<popover 'noclick'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/fx-black-haunts-tweet1.png]]<</popover>>
-<</link>>
-
-
-color invert <- white background
-
-<<link "Click me!">>
-    <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/christina-quote.png]]<</popover>>
-<</link>>
-
-
-:: snippets {"position":"506,1274"}
-<div class="lcontainer" width="100%" height="200">
-	<h2><center>Now reset to 0</center></h2>
-    <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/list2.png">
-</div>
-
+<<return "back">>
 
 
 :: StoryScript [script]
