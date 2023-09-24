@@ -79,7 +79,7 @@ At one point in UbiSoft's <i>Freedom Cry</i>, the protagonist you play, Adewale,
 :: Hello {"position":"1100,1500","size":"100,100"}
 <<link "lovely hellos">>
 <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/ronni-snippet-2.png]]<</popover>>
-<</link>>
+<</link>> 
 
 
 :: LosingMap {"position":"1200,1500","size":"100,100"}
