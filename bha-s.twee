@@ -1,5 +1,3 @@
-:: StoryTitle
-bha-s is my title-merged
 
 :: StoryData
 {
@@ -15,7 +13,8 @@ bha-s is my title-merged
   "zoom": 0.3
 }
 
-
+:: StoryTitle
+bha-s is my title-merging
 
 
 UserScript[script]
@@ -348,6 +347,7 @@ h3 {
 [[Sands-tweets]]
 [[yet]]
 [[Ferguson]]
+map-fire
 [[Null Island]]
 [[No Scrubs]]
 [[Dismal Swamp]]
@@ -369,6 +369,7 @@ h3 {
 [[The Salton Sea[hd]]]
 [[Miasmas[hd]]]
 [[As]]
+Miasmas
 [[The lost baby poem]]
 [[Notes[about]]]
 
@@ -401,6 +402,10 @@ Tie to Macharia's asymptote
 ::morrison-sha-sha-sha
 
 ::Pumzi
+
+
+
+
 <div style="padding:56.21% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/46891859?h=b4741fdb38&autoplay=1&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
 
 ::Ferguson
