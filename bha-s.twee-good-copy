@@ -393,35 +393,6 @@ What does all of this [[mean->blm_webkit]]  for black people?
 </div>
 
 
-:: popover snippets {"position":"475,1275","size":"100,100"}
-<<link "Click me!">>
-    <<popover 'opaque'>>\
-        Once upon a time... In a distant land...
-
-        Chapel made a macro set that required a constant barrage of unending examples.
-    \<</popover>>
-<</link>>
-
-
-<<link "Click me!">>
-    <<popover 'noclick'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/fx-black-haunts-tweet1.png]]<</popover>>
-<</link>>
-
-
-color invert <- white background
-
-<<link "Click me!">>
-    <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/christina-quote.png]]<</popover>>
-<</link>>
-
-
-:: snippets {"position":"675,1275","size":"100,100"}
-<div class="lcontainer" width="100%" height="200">
-	<h2><center>Now reset to 0</center></h2>
-    <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/list2.png">
-</div>
-
-
 :: the feed that hands you [code] {"position":"800,600","size":"100,100"}
 <div class="lcontainer" width="100%">
 <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/rc51apms.gif" width="100%" ></div>
