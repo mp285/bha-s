@@ -3,43 +3,25 @@ BHA-S-REDUX
 
 ::StorySettings
 
-
-::StorySettings2 [twee2]
-Twee2::build_config.story_format = 'Sugarcube'
+:: StoryData
+{
+  "ifid": "142D92F1-2FFC-40A6-A6EA-70772C34A87D",
+  "format": "SugarCube",
+  "format-version": "2.36.1",
+  "start": "Preamble",
+  "tag-colors": {
+    "rail": "blue",
+    "tie": "none",
+    "about": "purple"
+  },
+  "zoom": 0.3
+}
 
 
 ::StoryTitle
 StoryTitle
 bha-s is my title-backup
 
-::popover snippets
-popover snippets
-<<link "Click me!">>
-    <<popover 'opaque'>>\
-        Once upon a time... In a distant land...
-
-        Chapel made a macro set that required a constant barrage of unending examples.
-    \<</popover>>
-<</link>>
-
-
-<<link "Click me!">>
-    <<popover 'noclick'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/fx-black-haunts-tweet1.png]]<</popover>>
-<</link>>
-
-
-color invert <- white background
-
-<<link "Click me!">>
-    <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/christina-quote.png]]<</popover>>
-<</link>>
-
-::snippets
-snippets
-<div class="lcontainer" width="100%" height="200">
-	<h2><center>Now reset to 0</center></h2>
-    <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/list2.png">
-</div>
 
 UserScript[script]
 (function () {
