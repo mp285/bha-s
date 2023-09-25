@@ -345,7 +345,7 @@ h3 {
 [[Sands]]
 [[Lorain]]
 [[Michiana]]
-[[Lorain-glitch[hype]]]
+[[Lorain-glitch]]
 [[Sands-tweets]]
 [[yet]]
 [[Ferguson]]
@@ -373,8 +373,24 @@ h3 {
 [[The lost baby poem]]
 [[Notes[about]]]
 
-[[Preamble[old]]]
+[[Preamble]]
 [[Now reset to 0]]
+
+/* include links */
+
+[[Baudrillard]]
+[[Borges]]
+[[Doing]]
+[[Hello]]
+[[LosingMap]]
+[[Otter]]
+[[Rememory]]
+[[Sethe]]
+[[Signal]]
+[[Slumber]]
+[[morrison-sha-sha-sha]]
+
+
 
 /* INCLUDES */
 
@@ -393,7 +409,6 @@ h3 {
 <<link "lovely hellos">>
 <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/ronni-snippet-2.png]]<</popover>>
 <</link>> 
-
 
 :: LosingMap {"position":"1200,1500","size":"100,100"}
 <<link "A data visualization.">>
@@ -445,7 +460,10 @@ h3 {
     \<</popover>>
 <</link>>
 
+:: morrison-sha-sha-sha
 
+
+/* EPIGRAPHS */ */
 
 ::Judd quote
 "What do we not know that we don't know? It is a frightening thing if one thinks about it too long--the vastness and un-livability of the ocean to us as beings unaccustomed to living under water. I am asking about the technical possibilities of knowing and knowing that one knows something as vast. I'd offer that this kind of questioning is the larger con-tribution of Black feminist critique. That is--the language and our thoughts have failed us, will fail us, and so we must find other ways of feelin each other and thus, knowing anything at all. Black feminist thought has already taught us about engaging what it means to always be in the apocalypse...
@@ -468,9 +486,6 @@ Archipelagos
 
 Tie to Macharia's asymptote
 
-
-
-::morrison-sha-sha-sha
 
 ::Pumzi
 
