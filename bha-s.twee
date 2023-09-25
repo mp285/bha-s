@@ -381,8 +381,9 @@ h3 {
 [[Baudrillard]]
 [[Borges]]
 [[Doing]]
-[[Hello]]
+[[hola]]
 [[LosingMap]]
+[[Matthew]]
 [[Otter]]
 [[Rememory]]
 [[Sethe]]
@@ -395,34 +396,36 @@ h3 {
 /* INCLUDES */
 
 :: Baudrillard {"position":"600,1600","size":"100,100"} 
-/*Haunting down data */ <<link "Baudrillard’s seminal elaboration on that inversion,">>
+/* Mapping */<<link "Baudrillard’s seminal elaboration on that inversion,">>
 <<popover 'noclick' 'invert'>>[img[https://blackhaunts.mp285.com/wp-content/uploads/2015/02/baudrillard-snippet.png]]><</popover>><</link>>
 
 :: Borges {"position":"500,1600","size":"100,100"}
- <<link "Borges' conceptual inversion">>
+ /* Mapping */<<link "Borges' conceptual inversion">>
  <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/Borges-snip.png]]><</popover>><</link>> 
 
 :: Doing {"position":"600,1500","size":"100,100"}
- <<link "The importance of the doing is the doing,">><<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/queering-slavery-snip.png]]<</popover>><</link>>
+/* Matthew poems */<<link "The importance of the doing is the doing,">>  
+<<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/queering-slavery-snip.png]]<</popover>><</link>>
 
- :: Hello {"position":"1100,1500","size":"100,100"}
-<<link "lovely hellos">>
-<<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/ronni-snippet-2.png]]<</popover>>
-<</link>> 
+ :: hola {"position":"1100,1500","size":"100,100"}
+/* the feed that hands you */<<link "lovely hellos">>
+<<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/ronni-snippet-2.png]]<</popover>><</link>> 
 
 :: LosingMap {"position":"1200,1500","size":"100,100"}
-<<link "A data visualization.">>
-   <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/mckiernan-gonzalez-snippet.png]]<</popover>>
-<</link>> 
+/* the feed that hands you */<<link "A data visualization.">>
+<<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/mckiernan-gonzalez-snippet.png]]<</popover>><</link>> 
+
+:: Matthew {"position":"1300,1500","size":"100,100"}
+<<link "a poem he stages as a poet's encounter with an old tablet, an artifact">>  
+<<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/matthew-clip1.png]]<</popover>><</link>>
 
 :: Otter {"position":"1300,1500","size":"100,100"}
-<<link "contemplate this discourse on the otter.">>
-   <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/otter-snipped.png]]<</popover>>
-<</link>> 
+/* the feed that hands you */<<link "contemplate this discourse on the otter.">>
+<<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/otter-snipped.png]]<</popover>><</link>> 
 
 :: Rememory {"position":"1000,1500","size":"100,100"}
-<<link "Toni Morrison's notion of rememory, the conceptual modus operandi for her novel <i>Beloved.</i>">>
-    <<popover 'opaque'>>
+/* with or without me */<<link "Toni Morrison's notion of rememory, the conceptual modus operandi for her novel <i>Beloved.</i>">>
+<<popover 'opaque'>>
         <blockquote>
     “What were you talking about?” <br><br>
     “You won’t understand, baby.” <br><br>
@@ -431,21 +434,18 @@ h3 {
     “Can other people see it?” asked Denver. <br><br>
     “Oh, yes. Oh, yes, yes, yes. Someday you be walking down the road and you hear something or see something going on. So clear. And you think it’s you thinking it up. A thought picture. But no. It’s when you bump into a rememory that belongs to somebody else. Where I was before I came here, that place is real. It’s never going away. Even if the whole farm–every tree and grass blade of it dies.The picture is still there and what’s more, if you go there–you who never was there–if you go there and stand in the place where it was, it will happen again; it will be there for you, waiting for you. So, Denver, you can’t never go there. Never. Because even though it’s all over– over and done with–it’s going to always be there waiting for you. That’s how come I had to get all my children out. No matter what.” <br><br>
     Denver picked at her fingernails. “If it’s still there, waiting, that must mean that nothing ever dies.” <br><br>
-    Sethe looked right in Denver’s face. “Nothing ever does,” she said.</blockquote><</popover>>
-<</link>>
+    Sethe looked right in Denver’s face. “Nothing ever does,” she said.</blockquote><</popover>><</link>>
 
 :: Sethe {"position":"700,1500","size":"100,100"}
- <<link "Sethe's head-first dive into mediation.">><<popover 'noclick' 'invert'>><p>
-        Wendy Chun tells us: "Software perpetuates certain notions of seeing as knowing, of reading and readability that were supposed to have faded with the waning of indexicality. It does so by mimicking both ideology and ideology critique, by conflating executable with execution, program with process, order with action.”</p><</popover>>
-<</link>>
+/* BLM */<<link "Sethe's head-first dive into mediation.">><<popover 'noclick' 'invert'>><p>
+        Wendy Chun tells us: "Software perpetuates certain notions of seeing as knowing, of reading and readability that were supposed to have faded with the waning of indexicality. It does so by mimicking both ideology and ideology critique, by conflating executable with execution, program with process, order with action.”</p><</popover>><</link>>
 
 :: Signal {"position":"800,1500","size":"100,100"}
-<<link "the signal and the call.">>
-<<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/signal-call.jpg]]<</popover>>
-<</link>>
+/* BLM */<<link "the signal and the call.">>
+<<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/signal-call.jpg]]<</popover>><</link>>
 
 :: Slumber {"position":"900,1500","size":"100,100"}
-<<link "Rocks, stones, trees, me.">>
+/* with or without me */<<link "Rocks, stones, trees, me.">>
     <<popover 'opaque'>>\
     You can hear the breathing in this poem, in the sibilance…
         <blockquote>
@@ -457,8 +457,7 @@ h3 {
     She neither hears nor sees; 
     Rolled round in earth’s diurnal course, 
     With rocks, and stones, and trees. [1799]</blockquote> 
-    \<</popover>>
-<</link>>
+    \<</popover>><</link>>
 
 :: morrison-sha-sha-sha
 
@@ -935,7 +934,7 @@ What does all of this [[mean->blm_webkit]]  for black people?
 
  It is almost 10 a.m. and I have turned to Facebook because all this talk of the digital dead is making me tired and I am seeking company and relief and cute animal pictures, perhaps some intelligent discourse on the otter, to get me thinking again.
 
- I catch some <<include "Hello">>
+ I catch some <<include "hola">>
 
 Hello!
 
