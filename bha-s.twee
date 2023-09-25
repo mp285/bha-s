@@ -1,3 +1,6 @@
+:: StoryTitle
+bha-s is my title-merging
+
 
 :: StoryData
 {
@@ -13,8 +16,7 @@
   "zoom": 0.3
 }
 
-:: StoryTitle
-bha-s is my title-merging
+
 
 
 :: UserScript[script]
@@ -347,13 +349,12 @@ h3 {
 [[Sands-tweets]]
 [[yet]]
 [[Ferguson]]
-map-fire
 [[Null Island]]
 [[No Scrubs]]
 [[Dismal Swamp]]
-[[Black is the Beach[hype]]]
+[[Black is the Beach]]
 
-[[Haunting down data[code]]]
+[[Haunting down data]]
 [[Mapping]]
 [[Slumbers]]
 [[The Lossy Everyday]]
@@ -365,16 +366,89 @@ map-fire
 [[newer]]
 [[intro move 1]]
 [[intro move 2]]
-[[backwater blues[hd]]]
-[[The Salton Sea[hd]]]
+[[backwater blues]]
+[[The Salton Sea]]
 [[Miasmas[hd]]]
 [[As]]
-Miasmas
 [[The lost baby poem]]
 [[Notes[about]]]
 
 [[Preamble[old]]]
-[[Now reset to 0[about]]]
+[[Now reset to 0]]
+
+/* INCLUDES */
+
+:: Baudrillard {"position":"600,1600","size":"100,100"}
+
+/*Haunting down data */
+
+<<link "Baudrillard’s seminal elaboration on that inversion,">>
+<<popover 'noclick' 'invert'>>[img[https://blackhaunts.mp285.com/wp-content/uploads/2015/02/baudrillard-snippet.png]]><</popover>><</link>>
+
+:: Borges {"position":"500,1600","size":"100,100"}
+ <<link "Borges' conceptual inversion">>
+ <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/Borges-snip.png]]><</popover>><</link>> 
+
+:: Doing {"position":"600,1500","size":"100,100"}
+ <<link "The importance of the doing is the doing,">><<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/queering-slavery-snip.png]]<</popover>><</link>>
+
+ :: Hello {"position":"1100,1500","size":"100,100"}
+<<link "lovely hellos">>
+<<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/ronni-snippet-2.png]]<</popover>>
+<</link>> 
+
+
+:: LosingMap {"position":"1200,1500","size":"100,100"}
+<<link "A data visualization.">>
+   <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/mckiernan-gonzalez-snippet.png]]<</popover>>
+<</link>> 
+
+:: Otter {"position":"1300,1500","size":"100,100"}
+<<link "contemplate this discourse on the otter.">>
+   <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/otter-snipped.png]]<</popover>>
+<</link>> 
+
+:: Rememory {"position":"1000,1500","size":"100,100"}
+<<link "Toni Morrison's notion of rememory, the conceptual modus operandi for her novel <i>Beloved.</i>">>
+    <<popover 'opaque'>>
+        <blockquote>
+    “What were you talking about?” <br><br>
+    “You won’t understand, baby.” <br><br>
+    “Yes, I will.” <br><br>
+    “I was talking about time. It’s so hard for me to believe in it. Some things go. Pass on. Some things just stay. I used to think it was my rememory. You know. Some things you forget. Other things you never do. But it’s not. Places, places are still there. If a house burns down, it’s gone, but the place–the picture of it–stays, and not just in my rememory, but out there, in the world. What I remember is a picture floating around out there outside my head. I mean, even if I don’t think it, even if I die, the picture of what I did, or knew, or saw is still out there. Right in the place where it happened.” <br><br>
+    “Can other people see it?” asked Denver. <br><br>
+    “Oh, yes. Oh, yes, yes, yes. Someday you be walking down the road and you hear something or see something going on. So clear. And you think it’s you thinking it up. A thought picture. But no. It’s when you bump into a rememory that belongs to somebody else. Where I was before I came here, that place is real. It’s never going away. Even if the whole farm–every tree and grass blade of it dies.The picture is still there and what’s more, if you go there–you who never was there–if you go there and stand in the place where it was, it will happen again; it will be there for you, waiting for you. So, Denver, you can’t never go there. Never. Because even though it’s all over– over and done with–it’s going to always be there waiting for you. That’s how come I had to get all my children out. No matter what.” <br><br>
+    Denver picked at her fingernails. “If it’s still there, waiting, that must mean that nothing ever dies.” <br><br>
+    Sethe looked right in Denver’s face. “Nothing ever does,” she said.</blockquote><</popover>>
+<</link>>
+
+:: Sethe {"position":"700,1500","size":"100,100"}
+ <<link "Sethe's head-first dive into mediation.">><<popover 'noclick' 'invert'>><p>
+        Wendy Chun tells us: "Software perpetuates certain notions of seeing as knowing, of reading and readability that were supposed to have faded with the waning of indexicality. It does so by mimicking both ideology and ideology critique, by conflating executable with execution, program with process, order with action.”</p><</popover>>
+<</link>>
+
+:: Signal {"position":"800,1500","size":"100,100"}
+<<link "the signal and the call.">>
+<<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/signal-call.jpg]]<</popover>>
+<</link>>
+
+:: Slumber {"position":"900,1500","size":"100,100"}
+<<link "Rocks, stones, trees, me.">>
+    <<popover 'opaque'>>\
+    You can hear the breathing in this poem, in the sibilance…
+        <blockquote>
+    A SLUMBER did my spirit seal; 
+    I had no human fears: 
+    She seemed a thing that could not feel 
+    The touch of earthly years. 
+    No motion has she now, no force; 
+    She neither hears nor sees; 
+    Rolled round in earth’s diurnal course, 
+    With rocks, and stones, and trees. [1799]</blockquote> 
+    \<</popover>>
+<</link>>
+
+
 
 ::Judd quote
 "What do we not know that we don't know? It is a frightening thing if one thinks about it too long--the vastness and un-livability of the ocean to us as beings unaccustomed to living under water. I am asking about the technical possibilities of knowing and knowing that one knows something as vast. I'd offer that this kind of questioning is the larger con-tribution of Black feminist critique. That is--the language and our thoughts have failed us, will fail us, and so we must find other ways of feelin each other and thus, knowing anything at all. Black feminist thought has already taught us about engaging what it means to always be in the apocalypse...
@@ -690,7 +764,7 @@ At one point in UbiSoft's <i>Freedom Cry</i>, the protagonist you play, Adewale,
   
  And, yes, all maps are technically data visualizations, representations of magnitude that we otherwise couldn't comprehend.
   
- In addition to the many excellent volumes on the history of cartography that have already been produced, as well as the meta intervention in <<link "Borges' conceptual inversion">><<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/Borges-snip.png]]><</popover>><</link>> and in <<link "Baudrillard's seminal elaboration on that inversion">><<popover 'noclick' 'invert'>>[img[https://blackhaunts.mp285.com/wp-content/uploads/2015/02/baudrillard-snippet.png]]><</popover>><</link>>, it might also be worthwhile to work conceptualizations of maps and mapping vis-à-vis contemporary media and also software studies' emphases on computer modeling and representation as its own kind of performance, á la Chun, Kittler, and Pias. 
+ In addition to the many excellent volumes on the history of cartography that have already been produced, as well as the meta intervention in <<include "Borges">> and in <<include "Baudrillard">>, it might also be worthwhile to work conceptualizations of maps and mapping vis-à-vis contemporary media and also software studies' emphases on computer modeling and representation as its own kind of performance, á la Chun, Kittler, and Pias. 
  
  Indeed, in other settings I have talked about how critical it is that a variety of disciplinary knowledges be brought to bear on the representational habits of digital humanists, particularly as it is easy for "digital humanists" to lose sight of the kinds of discursive baggage our visualizations can introduce into arguments that are otherwise invested in other matters. So much of digital humanities is pitched toward the historical: representation of other kinds of archives, redefinition of what constitutes the archive itself. 
  
@@ -757,7 +831,7 @@ or
 [[Sands]]?
 
 ::Matthew poems
-In someways it is no different than Wordsworth's 1799 performance, "Matthew,"<<link "a poem he stages as a poet's encounter with an old tablet, an artifact">> <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/matthew-clip1.png]]<</popover>><</link>> into which some schoolboys had engraved their names. Whatever else was inscribed on the tablet is gone, but the names, a lark, remain. Wordsworth asks that we take we experience the poem as coming out of the space between whatever was lost from the tablet and the obdurate materiality of the names, to emerge from the break:
+In someways it is no different than Wordsworth's 1799 performance, "Matthew,"<<include "Matthew">> into which some schoolboys had engraved their names. Whatever else was inscribed on the tablet is gone, but the names, a lark, remain. Wordsworth asks that we take we experience the poem as coming out of the space between whatever was lost from the tablet and the obdurate materiality of the names, to emerge from the break:
 <blockquote>
 -- When through this little wreck of fame,
  Cipher and syllable! thine eye
@@ -768,7 +842,7 @@ I bring Wordsworth to this discussion because he was writing in a moment not dis
 
 There is also a sense that some marks will better sustain than others, and with that comes the profound irony of scratches and scribbles persisting beyond our most cherished works. In the example I began with, I have chosen my own scribbles over even the more finished objects produced out of them, and that I think them more mine than this essay is its own matter. 
 
-What is striking in the Matthew poem, and is concurrent with Nowivskie's text, is the poet's desire to mark slipped time, of knowing that the future has already arrived, even as we labor to produce the arts and humanities that speak to the current yet receding epoch. As Nowivskie puts it, "even while we delight in building the shiny and the new...we know that someone, sooner or later, curates bits against our ruins." Much of the work of the digital humanities is the work of recovery, even as we know ourselves as subject to the same kind of disappearance.  <<link "The importance of the doing is the doing,">><<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/queering-slavery-snip.png]]<</popover>><</link>> even as an act of productive protest against that which has not been done.
+What is striking in the Matthew poem, and is concurrent with Nowivskie's text, is the poet's desire to mark slipped time, of knowing that the future has already arrived, even as we labor to produce the arts and humanities that speak to the current yet receding epoch. As Nowivskie puts it, "even while we delight in building the shiny and the new...we know that someone, sooner or later, curates bits against our ruins." Much of the work of the digital humanities is the work of recovery, even as we know ourselves as subject to the same kind of disappearance. <<include "Doing">> even as an act of productive protest against that which has not been done.
 
 The digitalist understands that she cannot know to which future her work is pitched, and as our history of media continues to extend, we only increase our sense of the lost and the lose-able. Loss, as Nowivskie postulates it, is "a kind of substrate" to the work of the humanities, and especially to the digital humanities. Looking at our own tablets, wondering what will remain, we are in common sympathy.
  
@@ -787,9 +861,7 @@ It bears repeating: Even though "the digital" is still our cultural sign for the
 <div class="columns">
 Thinking about software, hardware, and the digital helps me to think about how to remove the ghost from Toni Morrison's <i>Beloved</i>, without removing its affective ghostliness, the haunting.
 
-This is important because it is actually somewhat difficult to make a claim regarding who or what Beloved is. We just say 'ghost' because it's easy, a catchall for that which is generated between erstwhile stable realms of knowledge and experience. <i>Beloved</i> is a novel about what happens in the wake of an individual's singular and too sharp encounter with a world of meaning that cycles along [with or without her->with or without me] but that is, regardless, there and waiting. It is a novel about things virtually no one could or should ever comprehend, <<link "Sethe's head-first dive into mediation.">> <<popover 'opaque'>>\
-        Wendy Chun tells us: "Software perpetuates certain notions of seeing as knowing, of reading and readability that were supposed to have faded with the waning of indexicality. It does so by mimicking both ideology and ideology critique, by conflating executable with execution, program with process, order with action."
-<</link>>
+This is important because it is actually somewhat difficult to make a claim regarding who or what Beloved is. We just say 'ghost' because it's easy, a catchall for that which is generated between erstwhile stable realms of knowledge and experience. <i>Beloved</i> is a novel about what happens in the wake of an individual's singular and too sharp encounter with a world of meaning that cycles along [with or without her->with or without me] but that is, regardless, there and waiting. It is a novel about things virtually no one could or should ever comprehend, <<include "Sethe">>
 
 This line of thought broadens the central ideological conflict in <i>Beloved</i>, which is a way of thinking about the deep differences between Sethe and Baby Suggs, between Sethe's belief in an abstract dominion, and Baby Suggs in the holiness of flesh on the earth, Sethe's virtuality and Baby Suggs' deep rejection thereof. For Baby Suggs, black life is matter. Flesh. Without this kind of singular focus on the fact of living, we are left only to utter #blacklifematters when a life has been lost, when the flesh is gone.
 
@@ -797,9 +869,7 @@ When I say "ideological conflict," I do indeed mean ideological conflict. But de
 
 There is something here about the abstract and the material that is difficult to suss out because the abstract is nonetheless material to our living in the world. Wanting to hear her sermon, I come across the word 'antiphony.' Perhaps Baby Suggs and Sethe are in antiphony, each singing the same song wrong. Thinking about digital media, particularly in its capacity to speed re-mediation, to let the "wrong" things come together, helps me to intuit the uncanniness of antiphonal performance, and to think about the horrors that are repressed or sublimated "in the break," as Fred Moten conceives it. 
 
-It is the antiphonic impulse that Ralph Ellison's narrator ventriloquizes in <i>Invisible Man</i>. It is the difference between <<link "the signal and the call.">>
-    <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/signal-call.jpg]]<</popover>>
-<</link>>
+It is the antiphonic impulse that Ralph Ellison's narrator ventriloquizes in <i>Invisible Man</i>. It is the difference between <<include "Signal">>
 
 Antiphony is in the everyday grace we can hear in the melody of Louis Armstrong's <a href="https://youtu.be/-vDm1lomVHU" target="_blank">What did I do to be so black and blue</a>, set against the near-suicide of its lyrics.
 
@@ -853,9 +923,7 @@ What does all of this [[mean->blm_webkit]]  for black people?
 
  It is almost 10 a.m. and I have turned to Facebook because all this talk of the digital dead is making me tired and I am seeking company and relief and cute animal pictures, perhaps some intelligent discourse on the otter, to get me thinking again.
 
- I catch some <<link "lovely hellos.">>
-    <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/ronni-snippet-2.png]]<</popover>>
-<</link>>
+ I catch some <<include "Hello">>
 
 Hello!
 
@@ -864,9 +932,7 @@ And then I am fed a <i>Scandal</i> meme.
 
  LOL. I totally would have thought the same thing. This feed is delicious. That's <i>totally</i> what I felt when I saw that scene.
 
- I am #winning on the feeding, until I catch "a map of lynchings." Great. <<link "A data visualization.">>
-    <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/mckiernan-gonzalez-snippet.png]]<</popover>>
-<</link>> Now I am overwhelmed with losing.
+ I am #winning on the feeding, until I catch "a map of lynchings." Great. <<include "LosingMap">> Now I am overwhelmed with losing.
 
  I return here to my essay about this non-thing that has just happened to me, to take a moment to add it to my own stream. I go back to my feed to grab the image. It is already gone. I go looking for it and, after finding a different map, I can figure where the first one came from. More clicking. 
 
@@ -880,13 +946,10 @@ And then I am fed a <i>Scandal</i> meme.
 
  The conclusion? "Just because it's real doesn't mean it's gonna work."
 
- It's a really cute song; you can listen to it  
-<iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/9077942&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/littlelinds" title="littlelinds" target="_blank" style="color: #cccccc; text-decoration: none;">littlelinds</a> · <a href="https://soundcloud.com/littlelinds/the-blow-true-affection" title="The Blow - True Affection" target="_blank" style="color: #cccccc; text-decoration: none;">The Blow - True Affection</a></div>
-<a class="btn" href="#otter">... while you contemplate this discourse on the otter.</a><div id="otter" class="modal-window"><a href="#" title="Close" class="modal-close">Close</a><img src= "https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/otter-snipped.png"></div> 
+ It's a really cute song; you can listen to it while you <<include "Otter">>
 
-<<link "while you contemplate this discourse on the otter.">>
-    <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/otter-snipped.png]]<</popover>>
-<</link>> 
+<iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/9077942&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/littlelinds" title="littlelinds" target="_blank" style="color: #cccccc; text-decoration: none;">littlelinds</a> · <a href="https://soundcloud.com/littlelinds/the-blow-true-affection" title="The Blow - True Affection" target="_blank" style="color: #cccccc; text-decoration: none;">The Blow - True Affection</a></div>
+
 
  If you don't remember how you got to this page, <<return "return">> to where you came from, or be dropped somewhere you've never been before. // link to random unvisited page // 
 
@@ -904,38 +967,13 @@ or delve into [[The Lossy Everyday]]
     <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/suggs-header-1.png">
 </div>
 
-While writing text for <i>Black Haunts in the Anthropocene</i>, I have been struck by my recurring sense of what it means to experience things that happen with or without me. One the one hand it is just not that interesting. That is simply what it means to live in the world. It happens with or without me. I rarely think about it, because underlying this is a nascent intimation of my own mortality. "With or without me" is a statement about will; my choices are irrelevant in the flow of time. It is also a statement about materiality. The world is never contingent on my presence, and that statement can never be reversed. If you think back to the poem, "A Slumber Did My Spirit Seal," this is the fundamental irony inherent in setting its aural breathiness against the obdurate materiality- corporeality, mortality- visualized by the poem. This poem about the dead breathes, and the dead thus become "the dead," virtually alive. ⇢ <<link "Rocks, stones, trees, me.">>
-    <<popover 'opaque'>>\
-    You can hear the breathing in this poem, in the sibilance...
-        <blockquote>
-    A SLUMBER did my spirit seal; 
-    I had no human fears: 
-    She seemed a thing that could not feel 
-    The touch of earthly years. 
-    No motion has she now, no force; 
-    She neither hears nor sees; 
-    Rolled round in earth's diurnal course, 
-    With rocks, and stones, and trees. [1799]</blockquote> 
-    \<</popover>>
-<</link>>
+While writing text for <i>Black Haunts in the Anthropocene</i>, I have been struck by my recurring sense of what it means to experience things that happen with or without me. One the one hand it is just not that interesting. That is simply what it means to live in the world. It happens with or without me. I rarely think about it, because underlying this is a nascent intimation of my own mortality. "With or without me" is a statement about will; my choices are irrelevant in the flow of time. It is also a statement about materiality. The world is never contingent on my presence, and that statement can never be reversed. If you think back to the poem, "A Slumber Did My Spirit Seal," this is the fundamental irony inherent in setting its aural breathiness against the obdurate materiality- corporeality, mortality- visualized by the poem. This poem about the dead breathes, and the dead thus become "the dead," virtually alive.  <<include "Slumber">>   
 
 <img class="inText" src="https://i0.wp.com/litreactor.com/sites/default/files/images/column/kaling-1.jpg" height="50%" width="50%">
 
 Against such contemplation, we breath. Social media feeds, however, force us to self-consciously live in the space between virtuality and embodiment. I open a window and enter the stream. The stream, algorithmically tuned to me, is there waiting for me. In its <strike>attenuation</strike> to me it is generated by an idea of what "I" am. This is different from my me-ness, which is now irrelevant since it no longer needs me. It only needed me to come into being once, maybe twice, and it will continue to represent me even when I am gone, feeding itself with <a href="https://slate.com/human-interest/2014/06/big-data-whats-even-creepier-than-target-guessing-that-youre-pregnant.html" target="_blank">a future of me that has already been made,</a> that I am making right now.
 
-We might be reminded here of <<link "Toni Morrison's notion of rememory, the conceptual modus operandi for her novel <i>Beloved</i>.">>
-    <<popover 'opaque'>>\
-        <blockquote>
-    "What were you talking about?" <br><br>
-    "You won't understand, baby." <br><br>
-    "Yes, I will." <br><br>
-    "I was talking about time. It's so hard for me to believe in it. Some things go. Pass on. Some things just stay. I used to think it was my rememory. You know. Some things you forget. Other things you never do. But it's not. Places, places are still there. If a house burns down, it's gone, but the place-the picture of it-stays, and not just in my rememory, but out there, in the world. What I remember is a picture floating around out there outside my head. I mean, even if I don't think it, even if I die, the picture of what I did, or knew, or saw is still out there. Right in the place where it happened." <br><br>
-    "Can other people see it?" asked Denver. <br><br>
-    "Oh, yes. Oh, yes, yes, yes. Someday you be walking down the road and you hear something or see something going on. So clear. And you think it's you thinking it up. A thought picture. But no. It's when you bump into a rememory that belongs to somebody else. Where I was before I came here, that place is real. It's never going away. Even if the whole farm-every tree and grass blade of it dies.The picture is still there and what's more, if you go there-you who never was there-if you go there and stand in the place where it was, it will happen again; it will be there for you, waiting for you. So, Denver, you can't never go there. Never. Because even though it's all over- over and done with-it's going to always be there waiting for you. That's how come I had to get all my children out. No matter what." <br><br>
-    Denver picked at her fingernails. "If it's still there, waiting, that must mean that nothing ever dies." <br><br>
-    Sethe looked right in Denver's face. "Nothing ever does," she said.</blockquote>
-    \<</popover>>
-<</link>>
+We might be reminded here of <<include "Rememory">>
 
 Rememory helps us to understand the myriad traumas of our experience in digital spaces. Indeed, rememory is a way of considering how we have always been digital, and that the modes of representation and experience that we today refer to as such cannot be separated from previous human experience. It is thus reasonable to see the digital as a constitutive component of the past. ⇢
 
