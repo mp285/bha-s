@@ -381,7 +381,7 @@ h3 {
 [[Baudrillard]]
 [[Borges]]
 [[Doing]]
-[[hola]]
+[[Hola]]
 [[LosingMap]]
 [[Matthew]]
 [[Otter]]
@@ -407,7 +407,7 @@ h3 {
 /* Matthew poems */<<link "The importance of the doing is the doing,">>  
 <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/queering-slavery-snip.png]]<</popover>><</link>>
 
- :: hola {"position":"1100,1500","size":"100,100"}
+ :: Hola {"position":"1100,1500","size":"100,100"}
 /* the feed that hands you */<<link "lovely hellos">>
 <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/ronni-snippet-2.png]]<</popover>><</link>> 
 
@@ -934,7 +934,7 @@ What does all of this [[mean->blm_webkit]]  for black people?
 
  It is almost 10 a.m. and I have turned to Facebook because all this talk of the digital dead is making me tired and I am seeking company and relief and cute animal pictures, perhaps some intelligent discourse on the otter, to get me thinking again.
 
- I catch some <<include "hola">>
+ I catch some <<include "Hola">>
 
 Hello!
 
