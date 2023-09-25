@@ -1,7 +1,3 @@
-::StoryTitle
-BHA-S-REDUX
-
-::StorySettings
 
 :: StoryData
 {
@@ -17,10 +13,8 @@ BHA-S-REDUX
   "zoom": 0.3
 }
 
-
-::StoryTitle
-StoryTitle
-bha-s is my title-backup
+:: StoryTitle
+bha-s is my title-merging
 
 
 UserScript[script]
