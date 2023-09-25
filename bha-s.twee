@@ -378,11 +378,8 @@ h3 {
 
 /* INCLUDES */
 
-:: Baudrillard {"position":"600,1600","size":"100,100"}
-
-/*Haunting down data */
-
-<<link "Baudrillard’s seminal elaboration on that inversion,">>
+:: Baudrillard {"position":"600,1600","size":"100,100"} 
+/*Haunting down data */ <<link "Baudrillard’s seminal elaboration on that inversion,">>
 <<popover 'noclick' 'invert'>>[img[https://blackhaunts.mp285.com/wp-content/uploads/2015/02/baudrillard-snippet.png]]><</popover>><</link>>
 
 :: Borges {"position":"500,1600","size":"100,100"}
