@@ -19,7 +19,7 @@ bha-s is my title-merging
 
 
 
-:: UserScript[script]
+:: UserScript [script]
 (function () {
     'use strict';
     // popover macro, by chapel, for SugarCube 2
@@ -620,7 +620,7 @@ For an instant, looking back, I imagine now that it must have been because the p
 	2	This article was commissioned by Stephanie Ann Frampton and Carolyn Dever.  
 
 
-::Lorain-glitch[hype]
+::Lorain-glitch [hype]
 [Lorain beach, glitch, puffy towers of puff, newspaper snippets of disappearing coastline...]
 
 ::Sands-tweets
@@ -994,13 +994,13 @@ The following project is a meditation on how a consideration of the hybrid tempo
 
 ::Noctalgia
 
-::backwater blues[hd]
+::backwater blues [hd]
 backwater blues
 
-::The Salton Sea[hd]
+::The Salton Sea [hd]
 The Salton Sea[new]
 
-::Miasmas[hd]
+::Miasmas [hd]
 Miasmas[new]
 
 ::As
@@ -1044,7 +1044,7 @@ It is also worthwhile to check out some of Ben Schmidt's other visualizations.
 
 <<return "back">>
 
-::Now reset to 0[about]
+::Now reset to 0 [about]
 <i> Let me begin with a quick caveat, an explanation, a request, and a "thank you":</i>
 
 <b>A caveat ⇢</b> Throughout this site I rely on lots of links to short articles and such, to help readers get a sense of the sense of the anthropocene that I am working with. Many of these links are not to any kind of authoritative source. That is intentional. The "anthropocene" is a recent term and, while it is meaningful in scientific circles, it is important that the term has been circulating heavily outside of such structures. Indeed, part of what I find interesting about the term is how we use it to capture an important sense of indeterminancy, a sense that "something" has happened, is happening, but that its meaningfulness is difficult to discern, even as its effects are felt. We are out of sync with the future. 
