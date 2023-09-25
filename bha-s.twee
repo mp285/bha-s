@@ -1,13 +1,14 @@
-:: StoryTitle
-bha-s is my title
+::StoryTitle
+BHA-S-REDUX
 
+::StorySettings
 
 :: StoryData
 {
   "ifid": "142D92F1-2FFC-40A6-A6EA-70772C34A87D",
   "format": "SugarCube",
   "format-version": "2.36.1",
-  "start": "StoryMenu",
+  "start": "Preamble",
   "tag-colors": {
     "rail": "blue",
     "tie": "none",
@@ -17,477 +18,12 @@ bha-s is my title
 }
 
 
-:: As {"position":"375,600","size":"100,100"}
+::StoryTitle
+StoryTitle
+bha-s is my title-backup
 
 
-
-:: Baudrillard {"position":"600,1600","size":"100,100"}
-<<link "Baudrillard’s seminal elaboration on that inversion,">>
-<<popover 'noclick' 'invert'>>[img[https://blackhaunts.mp285.com/wp-content/uploads/2015/02/baudrillard-snippet.png]]><</popover>><</link>>
-
-
-:: Black is the Beach {"position":"400,100","size":"100,100"}
-
-
-
-:: Borges {"position":"500,1600","size":"100,100"}
- <<link "Borges' conceptual inversion">>
- <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/Borges-snip.png]]><</popover>><</link>> 
-
-
-:: Dismal Swamp {"position":"875,125","size":"100,100"}
-
-
-
-:: Doing {"position":"600,1500","size":"100,100"}
- <<link "The importance of the doing is the doing,">><<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/queering-slavery-snip.png]]<</popover>><</link>>
-
-
-:: Ferguson {"position":"550,100","size":"100,100"}
-
-
-
-:: Haunting down data [code] {"position":"400,300","size":"100,100"}
-<div class="lcontainer" width="100%" height="200">
-	<h2><center>Haunting down data</center></h2>
-    <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/map.gif">
-</div>
-  
-<i>Black Haunts in the Anthropocene</i> began with a map, or more specifically, [[a chance encounter with a data visualization->Mapping]].
-<img src="https://blackhaunts.mp285.com/wp-content/uploads/2014/10/cropped-MauryMetadata1.png" width="75%" height="75%">
-This image, in which the fact of ships' movement itself comes to simulate the winds that powered global trade routes, is compelling because it elicits a sense of truth and evidence while simultaneously demonstrating nothing. It is suggestive because we are left to imagine the histories fanned by those dark wisps.
-
-I am reminded here of a course I taught a few years ago, titled <a href="https://blackhaunts.mp285.com/wp-content/uploads/2014/10/MParham-Syllabus_and_report_for_mellon-libre.pdf" target="_blank">Representing Slavery</a>. In that class, students were asked to spend a semester researching archival primary documents about the enslavement of black people in America, and to construct native digital presentations based in that research.
-
-<img src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/Evernote-20120310-14-40-57.jpg" align="left" width="30%" height="30%" margin:5px 5px>I remember one student, Katrina G., who was especially and rightfully overwhelmed by the preponderance of data. Huge books filled with shipping logs. Box upon box oxsf receipts. And massive ledgers populated with every data point pertaining to thousands of enslaved peoples. In her project she eventually had no choice than to focus on the names, on what wouldn't emerge as visible despite the overwhelming amount of data and information. What would it mean to bring that to life? What model, whose faces, would animate the record loss of an astounding magnitude?
-
-Years later, a different student from that same class, Elizabeth M. Alexander, produced a native digital undergraduate thesis, <i>My Weak Frame</i>, which similarly took up the question of what it would mean to interact with an obdurate archive, and to grapple with what is at stake in animating data's traumatic substrate. 
-
-In addition to thinking about our affective response to data, and also, again, toward a critique of the aesthetic narrativity of its visualization, it is useful to seek a method toward critiquing expressions of data that we often forget are data driven. I am thinking here of the work of someone like Fox Harrell, who reminds us of how narrative video games are driven by data. Even what might be experienced as the greatest moment of gaming freedom is absolutely constrained by an underlying database. The best that one can hope for then, is an exemplary remix, or the emergence of an especially compelling path.
-
-Taken together, we are left to wonder what new ways we might constitute the archive of black experience in the New World. From where is such data collected? How is it processed? How we articulate an experience of data? 
-
-<img src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/assassins_creed_wreckage_custom.jpg" align="left" width="30%" height="30%" margin:5px 5px>In one of my digital workgroup labs, The_ Critical_Is, we have been spending several months with a set of games from UbiSoft’s <i>Assassin’s Creed</i> series, <i>Assassin’s Creed: Freedom Cry</i> and <i>Assassin’s Creed: Liberation</i>, each of which is backdropped with an experience from New World slavery. 
-
-At one point in UbiSoft's <i>Freedom Cry</i>, the protagonist you play, Adewale, is tasked with rescuing enslaved Africans from a sinking slave ship newly arrived from the Middle Passage. They cannot all be saved. What kinds of data will we as players be motivated by? How do we configure a critical praxis when the work of neo-slave narratives is being taken up by a wholly new, deeply hybrid genre? <br><br>
-<img src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/Screen-Shot-2014-10-10-at-7.20.35-AM1.png"  align="left" width="50%" height="50%" margin:5px 5px>> //change image to gif// Affectively, an important element of <i>Black Haunts in the Anthropocene</i> is an attempt to come to terms with an informational uncanny, to address what an encounter with data might elicit from us, and to wonder what “brings data to life.” How will be parse our encounters with what would otherwise, eventually, be left aside. The reemergence of the drowned? Is something new? Or is this sense of what I experience today as animation simply an effect of improved representation? What do we mean when we insist that visualizations bring our data to life, and how are we to respond to this liveliness? 
-
- One more push [[Mapping]] // appears if didn't click mapping link
- Or maybe just hit [[Slumbers]] // appears if un-visited
-
-
-:: Hello {"position":"1100,1500","size":"100,100"}
-<<link "lovely hellos">>
-<<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/ronni-snippet-2.png]]<</popover>>
-<</link>> 
-
-
-:: LosingMap {"position":"1200,1500","size":"100,100"}
-<<link "A data visualization.">>
-   <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/mckiernan-gonzalez-snippet.png]]<</popover>>
-<</link>> 
-
-
-:: Mapping {"position":"600,275","size":"100,100"}
-<div class="lcontainer" width="100%" height="200">
-<img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/Twitter-Ferguson1.jpg">
-</div>
-  
- And, yes, all maps are technically data visualizations, representations of magnitude that we otherwise couldn't comprehend.
-  
- In addition to the many excellent volumes on the history of cartography that have already been produced, as well as the meta intervention in <<include "Borges">> and in <<include "Baudrillard">> it might also be worthwhile to work conceptualizations of maps and mapping vis-à-vis contemporary media and also software studies' emphases on computer modeling and representation as its own kind of performance, á la Chun, Kittler, and Pias. 
- 
- Indeed, in other settings I have talked about how critical it is that a variety of disciplinary knowledges be brought to bear on the representational habits of digital humanists, particularly as it is easy for “digital humanists” to lose sight of the kinds of discursive baggage our visualizations can introduce into arguments that are otherwise invested in other matters. So much of digital humanities is pitched toward the historical: representation of other kinds of archives, redefinition of what constitutes the archive itself. 
- 
-<<return "Return">>
-
-
-:: Matthew {"position":"500,1500","size":"100,100"}
-<<link "a poem he stages as a poet's encounter with an old tablet, an artifact">><<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/matthew-clip1.png]]<</popover>><</link>>
-
-
-:: Matthew poems {"position":"1100,800","size":"100,100"}
-
-
-
-:: Methane and other miasmas {"position":"175,250","size":"100,100"}
-
-
-
-:: No Scrubs {"position":"1025,125","size":"100,100"}
-
-
-
-:: Notes [about] {"position":"875,1275","size":"100,100"}
-Preamble
-
-The original post includes a link to the Johnston essay, which is useful to this discussion.
-
-It is also worthwhile to check out some of Ben Schmidt's other visualizations.
-
-<<return "back">>
-
-
-:: Now reset to 0 [about] {"position":"175,675","size":"100,100"}
-<i> Let me begin with a quick caveat, an explanation, a request, and a “thank you”:</i>
-
-<b>A caveat ⇢</b> Throughout this site I rely on lots of links to short articles and such, to help readers get a sense of the sense of the anthropocene that I am working with. Many of these links are not to any kind of authoritative source. That is intentional. The “anthropocene” is a recent term and, while it is meaningful in scientific circles, it is important that the term has been circulating heavily outside of such structures. Indeed, part of what I find interesting about the term is how we use it to capture an important sense of indeterminancy, a sense that “something” has happened, is happening, but that its meaningfulness is difficult to discern, even as its effects are felt. We are out of sync with the future. 
-
- <b>Let me explain something ⇢</b> As you might have guessed, <i>Black Haunts in the Anthropocene</i> is a digital essay. It is important that it be digital because my argument is driven by a sense that our contemporary consciousness of the anthropocene is in itself a media effect. For me, there is something nascent here that speaks to a sense of human time that has been influenced by our daily experience of the digital. I, nor anyone else at this point, can make the call on whether the changes in our world were to come [[with or without us->with or without me]]. But it may in fact be the case that our apprehension of this moment is made possible through an increased attenuation. In this sense “digital” marks a kind of movement, and this essay, though somewhat static nonetheless, can at least present its various texts in their proper forms.
- 
- <b>No, really ⇢ <i>Please.</i></b> The media forms represented in this essay are here for a reason,  links link, music plays, [[and the short film <i>Pumzi</i> is incredibly important.->Slumbers]] Please allow time to experience the various texts presented in the course of this argument. Avoid the impulse to privilege reading over the other kinds of representation in this essay. If modality weren’t on the table, I would have just sent you some photocopies. (You, whoever you are!)
- 
- And finally, a thank you ⇢ Thank you to anyone who takes the time to play with this site, but a special thanks to Princeton’s CAAS for the opportunity to present this work in progress, and to be a part of the amazing 'Black Studies in the Digital Age' workshop series. After the presentation, I will open each section for comments. I look forward to continuing our face to face conversations here.
- 
-<b>Abstract</b>
-The work recorded in this current version of <i>Black Haunts</i> is particularly interested in how contemporary cultural, political, and scientific notions of the <a href="https://www.smithsonianmag.com/science-nature/what-is-the-anthropocene-and-are-we-in-it-164801414/" target="_blank">'anthropocene'</a> cohere with matters of temporality in recent black literature and culture. To get at this I will offer three, short approaches to thinking the anthropocene.
-
-<i>(Again, as I mentioned in the preamble, this argument assumes that you have already spent time with my micro essay that preceded this project. If not, you can find it here.)</i>
-
-Exploration 1 :: #yournamehere : between activism and the archive
-Exploration 2 :: digital melancholia and “the future of time”
-Exploration 3 :: loving monsters or, the deep time of afrofuturism
-
-
-:: Null Island {"position":"700,125","size":"100,100"}
-
-
-
-:: Otter {"position":"1300,1500","size":"100,100"}
-<<link "contemplate this discourse on the otter.">>
-   <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/otter-snipped.png]]<</popover>>
-<</link>> 
-
-
-:: Preamble {"position":"175,425","size":"100,100"}
-BLACK HAUNTS IN THE ANTHROPOCENE
-Marisa Parham
-
-This project, which is still a work in progress, is an elaboration on a set of ideas I first started working with on my process blog, <a href= "https://mp285.com/nb" target="_blank">mp285.com/nb</a>. It began with a data visualization by Ben Schmidt, which I stumbled across on my Facebook feed. The map, and the other images collected at the site from which it came, affected me deeply. I was unsure why, but there was something about all the motion, the movement:
-<img class="inText" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/fx-black-haunts-tweet1.png">
- 
-A few weeks later I began working on “Black Haunts in the Anthropocene,” which was written as a stream of consciousness response to a review essay in <i>The Boston Review</i>, a piece by Mark Johnston entitled “Is Life a Ponzi Scheme?” Though they are ostensibly unconnected, the Johnston essay for some reason organized some of my feelings about the map image that I hadn’t quite been able to navigate beforehand. This sense of things coalescing was especially striking because I had come across both pieces while cruising my social media networks. My original posting was thus also informed by a feeling of things coming together with or without me, through clicks that, in retrospect, I cannot characterize as intentional or not. Just clicks.
-
- If you spend any time in a social media space, you likely know the feeling, that combination of enjoyment, distress, and anticipation, of finding what you weren't looking for and looking all day for something that can’t be found. I am reminded here of a status update I recently came across on Facebook, which encapsulates the pleasure and the pain of the feed: 
-<img src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/christina-quote.png">
-
-<s> Before continuing with this site, I ask that you take a moment to click HERE and visit that previous post. It will open in a separate window, so that you can return here when you are done. It includes a link to the Johnston essay, which is useful to this discussion. It is also worthwhile to check out some of Ben Schmidt's other visualizations.</s>
-
-Before continuing with this site, I ask that you take a moment to click <a href="https://mp285.com/nb/black-anthropocene/" target="_blank"> here </a> to visit that previous post. It will open in a separate reference window, so that you can return to it as you move through this site.
-
-Learn more [[about this site, or how to use it->Now reset to 0]] 
-
-[[Continue->with or without me]] 
-
-or 
-
-[[Step into a world->the feed that hands you]]
-
-
-:: Rememory {"position":"1000,1500","size":"100,100"}
-<<link "Toni Morrison's notion of rememory, the conceptual modus operandi for her novel <i>Beloved.</i>">>
-    <<popover 'opaque'>>
-        <blockquote>
-    “What were you talking about?” <br><br>
-    “You won’t understand, baby.” <br><br>
-    “Yes, I will.” <br><br>
-    “I was talking about time. It’s so hard for me to believe in it. Some things go. Pass on. Some things just stay. I used to think it was my rememory. You know. Some things you forget. Other things you never do. But it’s not. Places, places are still there. If a house burns down, it’s gone, but the place–the picture of it–stays, and not just in my rememory, but out there, in the world. What I remember is a picture floating around out there outside my head. I mean, even if I don’t think it, even if I die, the picture of what I did, or knew, or saw is still out there. Right in the place where it happened.” <br><br>
-    “Can other people see it?” asked Denver. <br><br>
-    “Oh, yes. Oh, yes, yes, yes. Someday you be walking down the road and you hear something or see something going on. So clear. And you think it’s you thinking it up. A thought picture. But no. It’s when you bump into a rememory that belongs to somebody else. Where I was before I came here, that place is real. It’s never going away. Even if the whole farm–every tree and grass blade of it dies.The picture is still there and what’s more, if you go there–you who never was there–if you go there and stand in the place where it was, it will happen again; it will be there for you, waiting for you. So, Denver, you can’t never go there. Never. Because even though it’s all over– over and done with–it’s going to always be there waiting for you. That’s how come I had to get all my children out. No matter what.” <br><br>
-    Denver picked at her fingernails. “If it’s still there, waiting, that must mean that nothing ever dies.” <br><br>
-    Sethe looked right in Denver’s face. “Nothing ever does,” she said.</blockquote><</popover>>
-<</link>>
-
-
-:: Sethe {"position":"700,1500","size":"100,100"}
- <<link "Sethe's head-first dive into mediation.">><<popover 'noclick' 'invert'>><p>
-        Wendy Chun tells us: "Software perpetuates certain notions of seeing as knowing, of reading and readability that were supposed to have faded with the waning of indexicality. It does so by mimicking both ideology and ideology critique, by conflating executable with execution, program with process, order with action.”</p><</popover>>
-<</link>>
-
-
-:: Signal {"position":"800,1500","size":"100,100"}
-<<link "the signal and the call.">>
-<<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/signal-call.jpg]]<</popover>>
-<</link>>
-
-
-:: Slumber {"position":"900,1500","size":"100,100"}
-<<link "Rocks, stones, trees, me.">>
-    <<popover 'opaque'>>\
-    You can hear the breathing in this poem, in the sibilance…
-        <blockquote>
-    A SLUMBER did my spirit seal; 
-    I had no human fears: 
-    She seemed a thing that could not feel 
-    The touch of earthly years. 
-    No motion has she now, no force; 
-    She neither hears nor sees; 
-    Rolled round in earth’s diurnal course, 
-    With rocks, and stones, and trees. [1799]</blockquote> 
-    \<</popover>>
-<</link>>
-
-
-:: Slumbers [code] {"position":"1300,425","size":"100,100"}
-<div class="lcontainer" width="100%" height="200">
-	<h2><center>Slumbers Seal, Slumbers Reveal</center></h2>
-    <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/pumzi-head.png">
-</div>
-  
-I describe “A Slumber Did My Spirit Seal” as a poem that breathes. I hear the breathing in the sibilance slippery softness of the opening lines,  generated by slumber, spirit, and seal. It is one of “the Lucy” poems, poems written by Wordsworth in contemplating the effects of a young girl's death, though I think we still don't know if the girl was 'real,'' even though we can be sure she is dead.
-The sibilance of the poem's opening lines also thematically complicate subject and object— the speaker's spirit, living, is sealed by another's slumber, death. As she goes, so do we:
-<blockquote>
-A SLUMBER did my spirit seal;
- I had no human fears:
- She seemed a thing that could not feel 
- The touch of earthly years.
- No motion has she now, no force;
- She neither hears nor sees;
- Rolled round in earth's diurnal course, With rocks, and stones, and trees. [1799]
- </blockquote>
-
-I thought of this poem when thinking about the winds //mouseover wind sound// represented on a map. I was thinking about our various traditions of human time, and how they have been potentially altered by the time of the human.
-
-I remember that in the course of thinking about these questions, I was lucky to go to the Studio Museum in Harlem, to see their excellent exhibition on Afrofuturist visual culture, <i>The Shadows Took Shape</i>. As a movement, afrofuturism is concerned with the radical means by which we recover a liberatory sense of living against a historical backdrop characterized by object status, by status itself as a data that tries to seal us of off from living and freedom. Afrofuturism embraces the future's necessary call to difference from today, and owns it. <a href="https://www.facebook.com/events/754430467980682" target="_blank">All activism is science fiction.</a>
-
-It was during that visit to the Studio Museum that I first I saw <i>Pumzi</i>, a short film out of Kenya, directed by Wanuri Kahiu. <i>Pumzi</i> helped me get at the wild peace I hear in “My Slumber” in the breathing that is not the loved one's, and also to imagine a future after any return to the soil. Kahiu's radical vision of love and hope helps us imagine life in the anthropocene. But not in the literal sense that we shall all plant trees and save the world. 
-
-I am not sure though, that this other place would be like [[this place->the feed that hands you]], where we are reading right now. 
- 
- [[ Or will you dwell?->blm_webkit]]
-
-
-:: StoryMenu {"position":"175,850","size":"200,200"}
-[[Preamble]] 
-[[Now reset to 0]] 
-[[And then a pause ->The Lossy Everyday]] 
-[[Common Sympathy->for the children]] 
-[[Haunting down data]] 
-[[#blacklivesmatter->blm_webkit]] 
-
-[[with or without me]]
-[[Mapping]]
-[[Slumbers]]
-[[the feed that hands you]]
-[[The lost baby poem]]
-[[backwater blues]]
-[[The Salton Sea]]
-[[Black is the Beach]]
-[[Methane and other miasmas]]
-[[As]]
-[[Ferguson]]
-[[Null Island]]
-[[No Scrubs]]
-[[Dismal Swamp]]
-[[Matthew poems]]
-
-<A HREF="javascript:window.print()">Click to Print This Page</A>
-<input type="button" value="Print" onClick="window.print()">
-
-
-:: The Lossy Everyday {"position":"1075,375","size":"100,100"}
-<div class="lcontainer">
-	<h2><center>And then a pause ⇢ The Lossy Everyday</center></h2>
-    <img class ="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/cropped-KoS.jpg" height="300" width="100%">
-</div>
-In a speech titled “digital humanities in the anthropocene,” Bethany Nowivskie asks digital humanists to attend to both the physical and metaphysical dimensions of digital work, a necessity brought into sharp relief in this cultural and likely geological moment we refer to as the anthropocene. In ways similar to the Mark Johnston essay that ignited the Black Haunts project, however, Nowivskie with great grace resists submergence into a negative discourse about the end of the world, asking us to acknowledge that we are “possessed of a knowledge that is sobering and rare. We, and the several generations that follow us, will bear knowing witness to the 6th great extinction of life on Earth.” She takes this as a call to will:
-<blockquote>“What does that knowledge do to DH in the year 2014? What does it do to our <i>self-conception</i> as humanities computing practitioners? It is certainly a reminder of common ground and shared fate. Can it speak to us, as increasingly loosely-coupled guilds of scholars working across disciplines; as archivists and librarians; as guardians and interpreters of cultural heritage? Can it speak to us as technologists, developers, and specialists in method and form; as researchers, administrators, students, and shapers and makers of all kinds? What responsibilities, for the DH community, does this knowledge imply? What outlooks come more sharply into view?”</blockquote>
-To work in the digital is to pitch into the void; it is to choose to produce in already lost languages. On some level I accept that, but not always. I remember a few years ago switching to taking all of my daily notes with a digital pen, so that I could live the convenience of digital notetaking while still producing a paper trail. A trail to where I do not know, and for whom I can even less imagine. But at the time the switch seemed important. I generally don't have any deep attachment to paper. Really, I am as happy with my digital notes as I am with my paper ones. But I cannot imagine that my digital notes have a future. Even though “the digital” is still our cultural sign for the new, for futurity, digital products have no future, at least not one that we imagine them in address. 
-
-<left><img src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/computer-book-from-kirschenbaum.jpg" width="50%" height="auto"></left>
-
- And yes, I know that there are many (though not enough) projects like BitCurator working on the question of how to carry the digital humanities into the future. But even if we were to solve the preservation problem(s), the proliferation, the constant rise and fall of digital technologies keeps us constantly aware of the unsuitability of any choice as future-proof. Writing this essay right now, I look to using the most common denominator software and methods, so that at least I have a shot at being cached, because I can imagine simple text persisting. I have no real reason to believe this.
- 
- At the same time, I write digitally because I am here and writing right now and, if nothing else, digital technologies are presentist technologies, allowing me to choose increased horizontal reach, dissemination, over sustainability, the long haul. This echoes something I hear in Nowviskie's talk, her sense that “We are here to live for a moment as best we can, to do our work, and to help our fellow-travelers muddle through their own short spans of time.” What does it mean to produce scholarly and creative work in the face of “multiple extinctions; heart-breaking extinctions; boring, quotidian, barely-noticed extinctions—both the absences that echo through centuries, and the disposable erosions of our lossy everyday.”
- 
- There is little new in the fact of the loss that Nowivskie identifies. The story she tells is a story about remainders, about what is left after. In someways it is no different than Wordsworth's 1799 performance, "Matthew," <<include "Matthew">> into which some schoolboys had engraved their names. Whatever else was inscribed on the tablet is gone, but the names, a lark, remain. Wordsworth asks that we take we experience the poem as coming out of the space between whatever was lost from the tablet and the obdurate materiality of the names, to emerge from the break:
-<blockquote>
-— When through this little wreck of fame,
- Cipher and syllable! thine eye
- Has travelled down to Matthew's name,
- Pause with no common sympathy.
- </blockquote>
-I bring Wordsworth to this discussion because he was writing in a moment not dissimilar to ours, a moment when the sudden and widespread technologization of human life potentially imperiled humans’ representation thereof. There is resonance in what gets produced in moments of crisis, in the moment between the arrival of new technologies and the techne that sustains in the wake of that arrival.
-
-There is also a sense that some marks will better sustain than others, and with that comes the profound irony of scratches and scribbles persisting beyond our most cherished works. In the example I began with, I have chosen my own scribbles over even the more finished objects produced out of them, and that I think them more mine than this essay is its own matter. 
-
-What is striking in the Matthew poem, and is concurrent with Nowivskie’s text, is the poet’s desire to mark slipped time, of knowing that the future has already arrived, even as we labor to produce the arts and humanities that speak to the current yet receding epoch. As Nowivskie puts it, “even while we delight in building the shiny and the new…we know that someone, sooner or later, curates bits against our ruins.” Much of the work of the digital humanities is the work of recovery, even as we know ourselves as subject to the same kind of disappearance. <<include "Doing">> even as an act of productive protest against that which has not been done.
-
-The digitalist understands that she cannot know to which future her work is pitched, and as our history of media continues to extend, we only increase our sense of the lost and the lose-able. Loss, as Nowivskie postulates it, is “a kind of substrate” to the work of the humanities, and especially to the digital humanities. Looking at our own tablets, wondering what will remain, we are in common sympathy.
- 
-It bears repeating: Even though “the digital” is still our cultural sign for the new, for futurity, digital products have no future, at least not one that we imagine them in address. The same can be said for myself-- [[or for anyone else->for the children]]
-
-
-:: The Salton Sea {"position":"750,275","size":"100,100"}
-
-
-
-:: The lost baby poem {"position":"1475,500","size":"100,100"}
-
-
-
-:: backwater blues {"position":"1325,600","size":"100,100"}
-
-
-
-:: blm_webkit {"position":"1275,175","size":"100,100"}
-<div class="lcontainer">
-    <h2><center>#blacklivesmatter</center></h2>
-    <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/flyinglotusvid_0210142.jpg" width="100%" height="200">
-</div>
-  
-<div class="columns">
-Thinking about software, hardware, and the digital helps me to think about how to remove the ghost from Toni Morrison’s <i>Beloved</i>, without removing its affective ghostliness, the haunting.
-
-This is important because it is actually somewhat difficult to make a claim regarding who or what Beloved is. We just say ‘ghost’ because it’s easy, a catchall for that which is generated between erstwhile stable realms of knowledge and experience. <i>Beloved</i> is a novel about what happens in the wake of an individual’s singular and too sharp encounter with a world of meaning that cycles along [with or without her->with or without me] but that is, regardless, there and waiting. It is a novel about things virtually no one could or should ever comprehend, <<include "Sethe">>
-
-This line of thought broadens the central ideological conflict in <i>Beloved</i>, which is a way of thinking about the deep differences between Sethe and Baby Suggs, between Sethe’s belief in an abstract dominion, and Baby Suggs in the holiness of flesh on the earth, Sethe’s virtuality and Baby Suggs’ deep rejection thereof. For Baby Suggs, black life is matter. Flesh. Without this kind of singular focus on the fact of living, we are left only to utter #blacklifematters when a life has been lost, when the flesh is gone.
-
-When I say “ideological conflict,” I do indeed mean ideological conflict. But despite the appropriateness of the term, this language seems all wrong. In this example, my interest in Seth is mainly a precipitate of my looking for a way to get at Baby Sugg’s connectedness without recourse to clichés about her being “down to earth,” while also thinking about Sethe’s willingness to fly from it. I am thinking about the beauty of <i>Song of Solomon</i>‘s ending lines, “if you surrendered to the air, you could ride it,” and how the beauty of the sentiment screens us from the ugliness of the encounter, a choice Morrison makes throughout that novel. 
-
-There is something here about the abstract and the material that is difficult to suss out because the abstract is nonetheless material to our living in the world. Wanting to hear her sermon, I come across the word ‘antiphony.’ Perhaps Baby Suggs and Sethe are in antiphony, each singing the same song wrong. Thinking about digital media, particularly in its capacity to speed re-mediation, to let the “wrong” things come together, helps me to intuit the uncanniness of antiphonal performance, and to think about the horrors that are repressed or sublimated “in the break,” as Fred Moten conceives it. 
-
-It is the antiphonic impulse that Ralph Ellison’s narrator ventriloquizes in <i>Invisible Man</i>. It is the difference between <<include "Signal">>
-
-Antiphony is in the everyday grace we can hear in the melody of Louis Armstrong’s <a href="https://youtu.be/-vDm1lomVHU" target="_blank">What did I do to be so black and blue</a>, set against the near-suicide of its lyrics.
-
-In <i>Beloved</i>, we are witness to antiphony when we hear, in Baby Sugg’s sermon, the voices voicing <a href="https://youtu.be/3vRFLgbIUWQ" target="_blank">in the film version of this scene</a>. It is also in the clockwise and counterclockwise movements of the participants, the turning of the clock, gears backward and forward, forward and back.
-</div>
-
-<hr class="rounded">
-In "There is No Software", media theorist Friedrich Kittler elaborates on the distinction between the kinds of software that drove earlier processors, versus the increasingly graphical interfaces – IFTTT is today's best example — that disappear the mechanism by which a machine is controlled, insofar as “perfect graphic user interfaces, since they dispense with writing itself, hide a whole machine from its users.” In thinking of the graphic antiphony we’re given in the film version of <i>Beloved</i>, and thinking it against Sethe’s “rememory,” I also hear Kittler’s invocation of the digital’s own root origin, which has also become its antithesis:
-<blockquote>This structural difference can be easily illustrated. “A combination lock,” for instance, “is a finite automaton, but it is not ordinarily decomposable into a base set of elementary-type components that can be reconfigured to simulate an arbitrary physical system. As a consequence it is not structurally programmable, and in this case it is effectively programmable only in the limited sense that its state can be set for achieving a limited class of behaviours.” On the contrary, “a digital computer used to simulate a combination lock is structurally programmable since the behaviour is achieved by synthesizing it from a canonical set of primitive switching components.”</blockquote>
- Like the digital, rememory is that which has origin, but is also discrete from it, unrooted. This video, directed by Hiro Murai for Flying Lotus (featuring Kendrick Lamar!), demonstrates this unrootedness. It’s beauty, like those closing line of <i>Song of Solomon</i>, cloak the violence of the uprootedness we can assume lay at the visual story’s own origin, the death of children here remediated into an ecstatic animation:<iframe src="https://player.vimeo.com/video/108194249?h=eb5e189c32" height="360" width="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
-In Murai’s video, the visual effect of the dancers is that of bodies moving in a timeframe distinct from the background against which they appear. As far as I can tell this is an element of the video that looks like a technical special effect, but it may in fact be generated by affect, by the deep distance between the setting, a funeral for children, and the joyous celebration embodied in their movement. They are, literally, operating on another level. We can tell that Murai is trying to draw attention to the effect. Inside the church, the flickering parlor lights at the beginning of the video, the coffin in front of the blinds, almost like static, and then the clapping of the choir, which is synced to the track, matches the childrens’ movement but, backlit, they are more like angels than congregants. Outside, Murai forces us to experience the dancers’ moving amongst other children who are also in motion– though clearly in a different way.
-
- If we return to the image of Baby Sugg’s sermon, we can see how the diffusion of feeling across the congregants makes their service bearable: #blacklifematters. In the Flying Lotus video, the dancing children transmit every position, joy and sorrow. Now transcendent, their dance, from the Lindyhop to the cabbage patch, carries the viewer across the generations. Unfortunately, they are out of sync with our sense of the meaningfulness of their demise. IS this what Sethe imagines, in love with a handsaw? 
-
- To never be caught is to fly but, even here, to fly is to ______ . <code>[/hook video.asset #istandwithbabysuggs ?#blacklifematters]</code> 
- That isn’t an error. That is a dream in the substrate. Meanwhile, [[with or without me?:->with or without me]]
-
-
-:: for the children {"position":"1475,275","size":"100,100"}
-<div class="lcontainer">
-<h2><center>Common sympathy ⇢ for the children</center></h2>
-<img class ="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/sheep2.png" height="300" width="100%">
-</div>
-  
-<i>Common Sympathy:</i>
-<div class="columns">
-I am thinking about the feed and what social media demands of us, as I mention in my preface to this project, and also in a timestamp from just a few minutes ago. I am also thinking about the languages we use to make the future affectively comprehensible, even while it is not knowable.
-
- In <i>Love Your Monsters</i>, Bruno Latour uses the tale of Frankenstein as an imperative to let go of false distinctions between human and object, nature and culture, the technological and everything else. For Latour, the figure that makes an idea of the future comprehensible is that of the child, in this case the nature-culture hybrid Frankenstein. In thinking about the anthropocene, Latour asks that we begin with the idea that humans have failed to take responsibility of that which we have created, rather than begin discursively with the idea that humans have failed to caretake the Earth, an empty claim disconnected from the actual lifeworlds we have created and that blames technology for its negative effects. His point is simple: the technological cannot be understood as an agent because “the technological” is an extension of the human. Blame habits and actions, even as our habits and actions are themselves shaped by that which we have created:
-
-<blockquote>“Written at the dawn of the great technological revolutions that would define the 19th and 20th centuries, <i>Frankenstein</i> foresees that the gigantic sins that were to be committed would hide a much greater sin. It is not the case that we have failed to care for Creation, but that we have failed to care for our technological creations. We confuse the monster for its creator and blame our sins against Nature upon our creations. But our sin is not that we created technologies but that we failed to love and care for them. It is as if we decided that we were unable to follow through with the education of our children.”</blockquote>
- Latour’s point is well-taken, and I see why Bethany Nowivskie, whose essay I have discussed [[here->The Lossy Everyday]], includes it in her own meditation. In humanist discourse, to produce scholarship is to imagine taking responsibility for the future by shaping the course of human knowledge. This runs counter to the impulse identified in Latour’s essay, which speaks to our discomfort and at times refusal to take responsibility for our technological inventions, inventions that often come into being in ways similar to intellectual creation, and with similar claims to the future of the human world.What would it mean to resist abdicating responsibility to creations that make us uncomfortable in their own displays of being or mastery? In fearing our monsters, the hybrid children we create, we also become fearful of our own future, as we build the wheels, set them in motion, and then call ‘fate.’ 
-
- <img class="inText" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/vanishing.jpg"> In “The Future of Time,” Toni Morrison is thinking about a similar set of issues from a different perspective, for she sees in this abdication a refusal to admit responsibility for the future, a refusal that mainly plays out as an obsession with understanding the future as an analog extension of a past still open to investigation and, by extension, revision, an obsession with making historical claims rather than setting new, future goals. The consequence of such obsession is the diminishment of time itself, a constant fear of the future:
-
-<blockquote>“Time is, of course, a human concept, yet in the late twentieth century (unlike in earlier ones) it seems to have no future that can accommodate the species that organizes, employs and meditates on it. The course of time seems to be narrowing to a vanishing point beyond which humanity neither exists nor wants to. It is singular, this diminished, already withered desire for a future.” </blockquote>
- What I hear in Morrison’s admonishment is her concern with what our fear of being outstripped by technology has wrought, namely an assumption that the future will not be determined by us, but instead by that which we create. Morrison identifies this flagging confidence in the future as a result of the atomic age, the Cold War, when the technologies of war exponentialized politics by replacing death and destruction with sudden annihilation. The future is the place of the always coming annihilation, and must thus be avoided at all costs. Presaging Latour by almost twenty years, Morrison senses in this diminishment a similar abdication to the future has beyond human intervention and control, even as it is made by humans, pointing out that in the technologically developed world, “where advance, progress and change have been signatory features,” is “where confidence in an enduring future is at its slightest.”
-
- It cannot be denied that the issues identified by Nowivskie, Latour, and Morrison have consequences for how we conceptualize the future of human life. But insofar as all the “we’s” in this human world have not experienced the past in the same way, perhaps the question of [[how we might remember to imagine new futures can be broadened by thinking it differently.->Slumbers]] In this I hear my own constant concern, which comes to me in my grandfather’s voice:
-
-What does all of this [[mean->blm_webkit]]  for black people?   
-</div>
-
-
-:: popover snippets {"position":"475,1275","size":"100,100"}
-<<link "Click me!">>
-    <<popover 'opaque'>>\
-        Once upon a time... In a distant land...
-
-        Chapel made a macro set that required a constant barrage of unending examples.
-    \<</popover>>
-<</link>>
-
-
-<<link "Click me!">>
-    <<popover 'noclick'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/fx-black-haunts-tweet1.png]]<</popover>>
-<</link>>
-
-
-color invert <- white background
-
-<<link "Click me!">>
-    <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/christina-quote.png]]<</popover>>
-<</link>>
-
-
-:: snippets {"position":"675,1275","size":"100,100"}
-<div class="lcontainer" width="100%" height="200">
-	<h2><center>Now reset to 0</center></h2>
-    <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/list2.png">
-</div>
-
-
-:: the feed that hands you [code] {"position":"800,600","size":"100,100"}
-<div class="lcontainer" width="100%">
-<img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/rc51apms.gif" width="100%" ></div>
-
- It is almost 10 a.m. and I have turned to Facebook because all this talk of the digital dead is making me tired and I am seeking company and relief and cute animal pictures, perhaps some intelligent discourse on the otter, to get me thinking again.
-
-I catch some <<include "Hello">>
-
-Hello!
-
-And then I am fed a <i>Scandal</i> meme. 
-<img class="inText" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/andre-snippet.png">
-
- LOL. I totally would have thought the same thing. This feed is delicious. That’s <i>totally</i> what I felt when I saw that scene.
-
-I am #winning on the feeding, until I catch "a map of lynchings." Great. <<include "LosingMap">> Now I am overwhelmed with losing.
-
-I return here to my essay about this non-thing that has just happened to me, to take a moment to add it to my own stream. I go back to my feed to grab the image. It is already gone. I go looking for it and, after finding a different map, I can figure where the first one came from. More clicking. 
-
- <i>Why am I doing this right now?</i> I cannot tell you. I see that my Facebook feed has switched itself back from “most recent stories” to “top stories.” With or without me– I cannot remember why I am here. // link only appears if haven't visited // 
-
- I keep clicking. This just in: <a href="https://www.washingtonpost.com/news/wonk/wp/2014/10/18/poor-kids-who-do-everything-right-dont-do-better-than-rich-kids-who-do-everything-wrong" target="_blank">Poor kids who do everything right don't do better than rich kids who do everything wrong.</a>
-
- Great.
-
- In the café where I am sitting, my approximately twenty third favorite song of all time has come on. It’s a song that draws an analogy between the distance between oneself and a love interest and the difficulty one would have communicating with someone under the sea, communicating in a different medium.
-
- The conclusion? “Just because it's real doesn’t mean it’s gonna work.”
-
- It’s a really cute song; you can listen to it... while you <<include "Otter">>
-
-<iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/9077942&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/littlelinds" title="littlelinds" target="_blank" style="color: #cccccc; text-decoration: none;">littlelinds</a> · <a href="https://soundcloud.com/littlelinds/the-blow-true-affection" title="The Blow - True Affection" target="_blank" style="color: #cccccc; text-decoration: none;">The Blow - True Affection</a></div>
-
-
- If you don’t remember how you got to this page, <<return "return">> to where you came from, or be dropped somewhere you've never been before. // link to random unvisited page // 
-
- Or remember that this is a story about [[data ->Haunting down data]] as an environment, the map and the terrain...
-</div>
-
-
-:: with or without me [code] {"position":"800,425","size":"100,100"}
-<div class="lcontainer" width="100%" height="200">
-	<h2><center>[with or without me]</center></h2>
-    <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/suggs-header-1.png">
-</div>
-
-While writing text for <i>Black Haunts in the Anthropocene</i>, I have been struck by my recurring sense of what it means to experience things that happen with or without me. One the one hand it is just not that interesting. That is simply what it means to live in the world. It happens with or without me. I rarely think about it, because underlying this is a nascent intimation of my own mortality. “With or without me” is a statement about will; my choices are irrelevant in the flow of time. It is also a statement about materiality. The world is never contingent on my presence, and that statement can never be reversed. If you think back to the poem, “A Slumber Did My Spirit Seal,” this is the fundamental irony inherent in setting its aural breathiness against the obdurate materiality– corporeality, mortality– visualized by the poem. This poem about the dead breathes, and the dead thus become “the dead,” virtually alive. <<include "Slumber">> 
-
-<left><img class="inText" src="https://i0.wp.com/litreactor.com/sites/default/files/images/column/kaling-1.jpg" height="25" width=100></left>
-
-Against such contemplation, we breath. Social media feeds, however, force us to self-consciously live in the space between virtuality and embodiment. I open a window and enter the stream. The stream, algorithmically tuned to me, is there waiting for me. In its attenuation to me it is generated by an idea of what “I” am. This is different from my me-ness, which is now irrelevant since it no longer needs me. It only needed me to come into being once, maybe twice, and it will continue to represent me even when I am gone, feeding itself with <a href="https://slate.com/human-interest/2014/06/big-data-whats-even-creepier-than-target-guessing-that-youre-pregnant.html" target="_blank">a future of me that has already been made,</a> that I am making right now.
-
-We might be reminded here of <<include "Rememory">>
-
-Rememory helps us to understand the myriad traumas of our experience in digital spaces. Indeed, rememory is a way of considering how we have always been digital, and that the modes of representation and experience that we today refer to as such cannot be separated from previous human experience. It is thus reasonable to see the digital as a constitutive component of the past. ⇢
-
-If it is in your head and you can't get it out, this. // unfold link
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6QPhpvO1pWDS91EsEmzsbc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-
-Now [[ou can move on->Slumbers]]. Maybe.
-Or [[just dwell->The Lossy Everyday]].
-
-
-:: StoryScript [script]
+UserScript[script]
 (function () {
     'use strict';
     // popover macro, by chapel, for SugarCube 2
@@ -540,7 +76,8 @@ Or [[just dwell->The Lossy Everyday]].
     setup.popover = popover;
 }());
 
-:: StoryStylesheet [stylesheet]
+::UserStylesheet[stylesheet]
+UserStylesheet[stylesheet]
 /* landing_page */
   @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
 
@@ -797,3 +334,715 @@ h3 {
 #ui-dialog-body.popover.invert {
     color: #111;
 }
+
+::StoryMenu[structure]
+
+<A HREF="javascript:window.print()">Click to Print This Page</A>
+<input type="button" value="Print" onClick="window.print()">
+
+
+[[shange epi]]
+[[drucker quote]]
+[[Archipelagos]]
+[[Pumzi]]
+
+[[Sands]]
+[[Lorain]]
+[[Michiana]]
+[[Lorain-glitch[hype]]]
+[[Sands-tweets]]
+[[yet]]
+[[Ferguson]]
+map-fire
+[[Null Island]]
+[[No Scrubs]]
+[[Dismal Swamp]]
+[[Black is the Beach[hype]]]
+
+[[Haunting down data[code]]]
+[[Mapping]]
+[[Slumbers]]
+[[The Lossy Everyday]]
+[[Matthew poems]]
+[[BLM]]
+[[for the children]]
+[[the feed that hands you]]
+[[with or without me]]
+[[newer]]
+[[intro move 1]]
+[[intro move 2]]
+[[backwater blues[hd]]]
+[[The Salton Sea[hd]]]
+[[Miasmas[hd]]]
+[[As]]
+Miasmas
+[[The lost baby poem]]
+[[Notes[about]]]
+
+[[Preamble[old]]]
+[[Now reset to 0[about]]]
+
+::Judd quote
+"What do we not know that we don't know? It is a frightening thing if one thinks about it too long--the vastness and un-livability of the ocean to us as beings unaccustomed to living under water. I am asking about the technical possibilities of knowing and knowing that one knows something as vast. I'd offer that this kind of questioning is the larger con-tribution of Black feminist critique. That is--the language and our thoughts have failed us, will fail us, and so we must find other ways of feelin each other and thus, knowing anything at all. Black feminist thought has already taught us about engaging what it means to always be in the apocalypse...
+-- "The End: Everything in the Ocean," Bettina Judd
+
+::shange epi
+"We inhabit space with rhythm, color, and olfactory miracles. This is who we are... We must not let our oppression deny us the earth." 
+
+- from the preface of Wild Beauty by Ntozake Shange
+
+::drucker quote
+Interface, increasingly, will be the experience of being in the world. Distinctions between first- and second-order representations--those symbolic orders of language and image or their simulacral presence--will cease to matter when we realize that we live in a material and symbolic domain of actualized encounters, the boundary spaces of interface relations, through which we imagine our lives into being and give knowledge its forms of expression. At that point, interface will be construed not as representational but as performative and constitutive, and the need for ways of reading that constituting scrim and its naturalized models of what we take for the world will be ever more urgent. 
+Joanna Drucker,
+"Reading Interface"
+
+::Archipelagos
+Archipelagos
+
+"The culture of archipelagoes is not terrestrial, as are almost all cultures: it is fluvial and marine. We're dealing here with a culture of bearings, not of routes; of approximations, not of exactitudes. Here the world of straight lines and angles (the wedge, the inclined plane, the intersection) does not dominate; here rules the fluid world of the curving line. The culture of meta-archipelagoes is an eternal return, a detour without destination or milepost, a roundabout that leads nowhere but back home; it is a feed-back machine, as is the sea, the wind, the Milky Way, the novel, the natural world, the food chain, the sonata" (BR, 439). 
+
+Tie to Macharia's asymptote
+
+
+
+::morrison-sha-sha-sha
+
+::Pumzi
+
+
+
+
+<div style="padding:56.21% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/46891859?h=b4741fdb38&autoplay=1&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+
+::Ferguson
+
+**Fire** <- find all versions
+
+	My talk today is mainly exploratory, and concerns affect, circulation, memory, and the digital. This line of inquiry first arose out of some preliminary work on a digital humanities project interested in conceptualizing and developing data visualizations that could communicate the various kinds of social, cultural, emotional labor accomplished by people's use of Twitter hashtags. This inquiry was motivated by the prominent role Twitter played in public discourse in the wake of numerous brutality cases against African Americans in the United States, perhaps most prominently beginning with the murder of seventeen year old Trayvon Martin in Florida in 2012. The technical capacity to engage tweets as primary research materials had been greatly increased by work done by DH scholars and software developers like like Ed Summers and Martin Hawksey, and my collaborator Jeffrey Moro and I were at the time engaging some of the positive and negative theoretical complexities arising out of tying tweets to geolocation, so that we would be ready to talk to local DH practitioners about some of the stakes of the various data collection methods we might introduce to them.[1]
+____________
+
+ In[2] working with this software and the Twitter API, we became interested in how we might characterize what emerged for us as the difference between Twitter as a dataset and Twitter as an experience. There is a tension between the notational, metric, countable aspects of Twitter--the datum we associate with individual utterances--and the sweeping, constant, human generated meaningfulness to which those utterances work to contribute. This tension between "data" and the often mysterious waves of voice, performance, and gesture in social media puts significant pressure on working with a social media archive. Despite the immense amounts of metadata attached to a tweet, the significance of much of its data is lost once the circumstance of a tweet's appearance passes away.[3]
+
+	We were especially interested in a series of emotionally captivating data visualizations that had been circulating in popular media in the wake of 2014 protests against racial violence in Ferguson, an under-resourced, predominately black suburb of St. Louis, Missouri. Created by S. Rogers and distributed in the online edition of the Daily Mail, a London newspaper, this interactive heatmap allowed viewers to watch Twitter users wait for and respond to the Ferguson grand jury's November 2014 decision on whether or not to indict Darren Wilson, a police officer who had shot and killed an unarmed black teenager, Michael Brown, earlier that year.[4] The shooting had made Ferguson a site of international interest, crystallizing concerns around the rise of police brutality in the United States. 
+media/images/Image0.png
+
+By visualizing social media data--hashtags, geolocation, and timestamps--the map was able to concretize the sense that, despite the relative obscurity of Ferguson, MO before Brown's death, the whole world was indeed watching. In this use heatmapping is a tool for visualizing a single data point, a hashtag, and displaying it across several dimensions simultaneously: time, location, and frequency. Each instance of tweeting is marked on the map; a point of light indicates its location. The "lively" or animated quality of the map is accomplished by including time as an axis of experience: marking different tweets incrementally across a span of time makes it seem as if the light points are seething and throbbing, as users' different moments of interaction become aesthetically connected, producing a sense of temporal continuity. Just as the map's flickering lights amplify users' simple acts of tweeting as phenomena of appearance, the increasing numbers of users across the map and the increase in tweeting activity produce an effect wherein to participate is to give off a spark. Indeed, in the Daily Mail news story in which the map first appeared, the map's animation as people waited for the news is captioned as "buzzing." When the statement was released, the next map was captioned, "Internet on fire."[5]
+	
+	Because so much of the map's effect is in how it thematizes participation, it is also interesting in how it visualizes a sense or sensibility. In "On Seeing Through Twitter," Jeffrey Moro highlights our observation regarding how little tweets can "tell" after the moment of their composition has significantly passed. This is not because archival tweets lack substantive information. It is quite the opposite: an average single tweet produces multiple cascading data points, as "One tweet effectively contains the full metadata for all of its relationships, which allows one to map out webs of fractal connections."[6] By foregrounding some of the Twitter metadata that would otherwise go unnoticed by an average participant, the Daily Mail visualization uses whhat you do not see in order to visualize what you might feel in such a moment of high participation. Despite being generated out of "data," the value of its effect is mainly in the metaphorical resonance, in how it produces a sense of affective dimensionality by transforming basic data coordinates, again, hashtag, time, and location, into a representation of the flaring of "the world's" participation in a political moment.[7]
+
+In this way, Rogers' map visualizes social media experience as set over and beyond specific content. Here, participation itself ­is the content.[i]
+
+
+[i] Chun
+
+
+
+
+<<return "Back">>
+
+::ferguson-digitality
+<digitality>
+
+BUT Even as it represents a world on fire, the origin of the participation mapped in the Daily Mail visualization is in the factual ubiquity of black death. For many people, every day, the world is indeed on fire. In this way the subordination of content in the map's aesthetic effect can also be read as an apt representation of the serial nature of Michael Brown's death, as the event of his death of course carried the specific importance of his human life, but also communicated his status as one of many black children killed by police in the United States. If Rogers' map uses what one does not see in order to visualize what one might feel in such a moment of high participation, understanding Brown's death as one of many also transmits an affective meaningfulness in excess of particular content, what Katherine McKittrick has referred to as "the list, the breathless numbers, the absolutely economic, the mathematics of the unliving." Qualitatively encoded in understanding the impact of Brown's death is the reiteration of a quantitative reality. Brown dies and I think, again. The "mathematics of the unliving" is an historical metadata that produces a sense of resonance beyond a discrete moment, producing a memory that circulates without origin. In moments of such experience, content and ownership are subordinated to haunting resonance and uncanny circulation.[i] Accounting for how black life requires a capacity to constantly index black death, and the interspatial, cross-temporal processes this instantiates, helps us to conceptualize the digital dimensionality of Black diasporic life. 
+
+
+[i] Cite Haunting and Displacement
+
+
+::this is the pause
+<em>This is the pause -- an excerpt from "Sample | Signal | Strobe" </em>
+
+In the wake of particularly harrowing events, I watch as handfuls of friends and compatriots declare "social media breaks," overcome with bone weariness. If we accept that social media participation is also an embodied relationship, then it follows that the data present might not necessarily square with a body's drive to remember. In "On Seeing through Twitter," Jeffrey Moro notes that even as so many contemporary framings of the digital and digital experience rightfully focus on dis- embodiment and accelerationism, it is important to register other kinds of digital experiences. For many members of marginalized communities, "social media over- concretizes lives in ways that bodies can't sustain." Moro goes on to discuss Web Smith's description of dealing with the constant social media specter of Black people's deaths. It is worth repeating here: "Twitter is suffering because it is the most accurate reflection of American society today. It's not just what's tweeted, it's what isn't tweeted. Each day, a new hashtag represents a dead child. Often, there is a filmed murder attached. Often still, we watch it." 
+Social media experience is on the one hand absolutely concrete--when you post a tweet you are doing a material thing with a material process and a material trace--but that doing is immediately keyed to a time, a moment that will soon pass. At the same time, the experience of the moment of composing or reading or sharing does not in fact pass; it remains. "Each day, a new hashtag": on the one hand, Smith's observation comports with Manovich's sense of the timeline in its temporal march. At the same time, "each day, a new hashtag represents a dead child" is also a keen- ing, as the march forward is in fact experienced as repetition, as entrapment in a historical past of racial violence that refuses to pass. Each day, comma. A pause. A space impenetrable to me because its purpose is to factor Black death. The break. 
+#SocialMediaBreaks 
+This sense of remainder is also a technological reality. Even as posts move down the timeline, the user's trace is never let go. On your return, the system returns this trace of you to you as you, insofar as the timeline purports to be algorithmically tuned to you, your preferences, your likes, your choices. One might think here of Wendy Chun's description of the human experience of software, wherein our experience of an interface ideally works transparently, the mechanism out of sight. In its render- ing of the experience of computing, "its combination of what can be seen and not seen, can be known and not know--its separation of interface from algorithm, of software from hardware--makes it a powerful metaphor for everything we believe is invisible yet generates visible effects" (Chun 2013, 17). Ghostly yet evidential, present yet temporally displaced, the user's feeling of participation bridges this sense of you but not you, presence and action, as the sense that the distance between these perceived states must be experienced as easily navigable contributes to a platform's affective power. In instilling in us a certain sense of time and then localizing that experience of time to specific platforms with distinctive interfaces, social media consolidates its status as a place, as a material localization of social and affective forces that constitutes something more and less than extensibility. It is all about you, literally moving with you when you are present, without you when you are not, but always awaiting your return. 
+<with or without you> 
+With you, without you: digitality can also be taken adjectively, as describing the mechanisms by which other people's experiences emerge and reemerge across times and spaces that are separated and discrete. It is a way of characterizing the haunted nature of Black life, which in Haunting and Displacement I frame as a way of think- ing about what it means to experience other people's memories with the affective impact of personal, firsthand experience. A productive figure for haunting and digital experience can be found in Toni Morrison's deployment of the notion of "rememory" in the words of her character Sethe in Beloved: 
+Someday you be walking down the road and you hear something or see some- thing going on. So clear. And you think it's you thinking it up. A thought picture. But no. It's when you bump into a rememory that belongs to somebody else. Where I was before I came here, that place is real. It's never going away. Even if the whole farm--every tree and grass blade of it dies. The picture is still there and what's more, if you go there--you who never was there--if you go there and stand in the place where it was, it will happen again; it will be there for you, waiting for you. (47) 
+There is something in Sethe's claim about the abstract and the material that is difficult to suss because the abstract is nonetheless material to our living in the world. Even though it at first might seem like Sethe's argument is mainly spatial--the rememory that waits to be "bumped" into--it is also useful to attend to how Mor- rison foregrounds "you," which is to say that the rememory marks "you" as both subject and object of the past's actions.1 Because you are a discrete being, "you who never was there," the encounter with a radically exteriorized and detached past, the sample, is an experience of irruptive emergence that is also characterized by expectation. Before you give me the details, I get it. 
+#sample 
+You learn of Michael Brown's death in Ferguson, Missouri, and you already know what has happened. Each day, a new hashtag. In the wake of American terrors against people of African descent, diaspora itself becomes a sense of time, char- acterized by a resolute futurism underwritten by a continual sense of the abid- ing past, the timeline ticking with or without you. In this orientation, experienced events are characterized by where they fall on a scale of expectation. Most events have already happened because they will happen again, a temporal orientation around which every experience of space must bend; it is the still-living's experi- ence of what it means "to live in relation to this requirement for our death," what Christina Sharpe characterizes as living "in the wake" of "specific and cumulative deaths" (7). Accounting for how Black life requires a capacity to constantly index Black death, and the intertemporal, crossroad processes that this instantiates, helps us conceptualize the digital dimensionality of Black diasporic life. Unmoored, at every instance of its emergence a sample potentially reproduces memory without origin, Moten's anarrangement sublimated, the aesthetic emergences and emergen- cies of Black American social and historical condition. If you go there and stand in the place where it was, it will happen again; it will be there for you, waiting for you. Each day, a new hashtag represents a dead child. 
+A sample is able to resonate as meaningful by virtue of the power vested in the very fact of its recursive appearance, in its mortifying pronouncement of the right thing--the right utterance or gesture or beat, appearing at the right time for all the wrong reasons--a negative capability navigated in the wake of what Katherine McKittrick frames thusly: "The slave's status as object-commodity, or purely economic cargo, reveals that a Black archival presence not only enumerates the dead and dying, but also acts as an origin story. This is where we begin, this is where historic blackness comes from: the list, the breathless numbers, the absolutely economic, the mathematics of the unliving" (16). 
+The "mathematics of the unliving" is a historical metadata that produces a sense of resonance beyond a discrete moment, producing a memory that circulates without origin. In moments of such experience, content and ownership are subordinated to haunting resonance and uncanny circulation. Qualitatively encoded in an experience of Michael Brown or innumerable other Black children's deaths is the reiteration of a quantitative reality, what I have elsewhere conceptualized as the impact of the news of other people's deaths. This is the pause between a death and its hashtag. A transmission. Brown dies and I get it. If I am not careful when I type McKittrick's quote, my computer insistently autocorrects "unliving" to "unloving," and I am moved to tears. This black box has grown from a ship's hold in Africa. 
+
+
+::Sands
+LIKE SANDS THROUGH THE HOURGLASS
+[February 2021]
+
+My nine-year-old, S, spends substantially more time online these days, because that is where he sees his friends, and he is at the age where play is his primary form of friendship. They are usually meeting up in Minecraft--the ubiquitous blocky building environment--running on a shared private server, which is to say that they play in the digital playground they have built for themselves. S moved with us to a new state and started at a new school during the pandemic, so he plays with a combination of kids from his old school and his new classmates, whom he's never met in person. It works. 
+
+But lately I am noticing how much less they are building together. Now they mainly run. Run and run from mission to mission, making it up as they go along. It's like the tag I remember from my own youth, last tastes of wild before the streetlights came on, just a reason to run and yell and leap toward even the smallest horizon. [Mouseover turns into minecraft figures running across the page, if can't find transparencies, just use a semi-trans scene]
+
+This, I suppose, has been the grand transposition. For many of us, daily life is now even more heavily delivered through screens. The computer world is the place of the daily grind, and now we struggle to moderate and manage our time out in the flesh world. During their game time, the kids use videoconferencing like Zoom to talk and to sort of feel each other's presence, but they seldom use their faces. When I peek in on my older child's classes, I see rows of partly obscured teenage faces. My own child is mainly a forehead with a shock of fluff atop.
+
+The kids are there. But they also seem to have entered a generational compact regarding what that presence should look like. They are trying to force Zoom life back into alignment with their other experiences of digital self-representation, with all the complexities of control, capture, and release pertaining. They have mastered the art of sending forth their appropriate representatives into Zoom space, and I admire them.
+
+But they also suffer. What day is it? What time is it? We are a household of students and teachers, so of course we actually know; our schedules are as full as on any prepandemic day. But then why does it always feel like time has become unknowable? My guess is that if we were to experience time, we would also have to compute many other scales and quantities, and such a deepening of life's map would be unbearable.
+
+It's like an amplified version of when you have a job that requires radically different hours from the people around you. The rhythms are all off, and it's difficult to communicate the nature of the difference--the different nature, the nature you now inhabit--because even the patterns of your when and how and why are so much at a distance from everyone else. Sunrise becomes your bedtime, and you work hard never to think about what you are missing, because it is seldom that you get to be there when.
+
+This is our place. This digitized where is who we are in this moment. I wonder what my children will remember, the deep sea of their experience spanned across the common space of their screens, [[spatially edged, temporally edgeless.->Lorain]]
+ 
+
+
+::Lorain
+WHEN WE WERE THERE
+It is summer 2019, and we are taking a family vacation. The stars have aligned and we are in the car, somewhat making it up as we go along. A fortunate variety of work and other circumstances had led us to visit two coastlines earlier that summer: the Pacific at Point Reyes and the Atlantic at Provincetown in midsummer. It seemed fitting then that we would end on America's third coast, which is where I was born.
+
+As we drive, I am trying to explain to S that, in the part of the Midwest where I am from, our lakes are like oceans to us, because you cannot see the opposite shore. He is skeptical. I'm like, You've been to Chicago, don't you remember? But the answer is no.
+
+Talking to him reminds me of a magazine article I read decades ago. It was about traveling to lands where you don't speak the language, about how to be quiet, watch, and learn. I think of this as I try to excavate an eight-year-old's memory, watching those large brown eyes in their small brown face: how they see all, remember everything, and recall nothing.
+
+Staring out the car window as we pass through Cleveland, I suddenly realize that my description of the Great Lakes borrows liberally from Toni Morrison's Song of Solomon. The book opens by contrasting Great Lakes folk to other landlocked peoples, who know that they "cannot claim a coast." From this, Morrison determines that "the people living in the Great Lakes region are confused by their place on the country's edge--an edge that is border but not coast."[1]
+
+As I recall this [[now->Sands]], I am overcome with longing. I do not know if it is the longing of now thinking of then, or if it is remembering the longing of then that led me to there. Morrison had died earlier in the week of our journey, and we were on our way to her birthplace of Lorain, Ohio.
+
+[Insert Lorain photos on mouseover] I turn to my computer, looking for pictures from that day. The beach at Lorain, Lake Erie, looks much as I remember--wide and long and astonishingly flat. I'm from the Midwest; I know flat. But this is something more, ethereal in its edgelessness. Flat land, blue sky, gentle water, infinite horizon. 
+
+Listless and longing and stuck in this winter pandemic writing, I breeze across social media. A quote leaps. Someone I do not know but whose presence I have come to appreciate posts a tweet, invoking Yemayá: "To remind us that in the same way the breaking of waves does not compromise the integrity of the Ocean, so too anything broken in our lives cannot compromise that cosmic flow of wholeness." [2]
+
+media/images/esme.png
+
+I stick my foot in the water, but it does not release me from this soft and archipelagic saudade. [Morrison consolata pop-up]
+ 
+[[Michiana]]
+
+--------
+ 
+	1	Toni Morrison, Song of Solomon (Knopf, 1977), p. 162. 
+	2	Esme G. Murdock (@Edge_metron), "M. Jacqui Alexander on Yemayá: '...to remind us that in the same way the breaking of waves does not compromise the integrity of the ocean, so too anything broken in our lives cannot compromise that cosmic flow of wholeness.' 🌊🖤😭" Twitter, February 1, 2021, twitter.com/Edge_metron/status/1356391540625534976. The quote featured in this post is from M. Jacqui Alexander, Pedagogies of Crossing: Meditations on Feminism, Sexual Politics, Memory, and the Sacred (Duke University Press, 2006). The original quote reads: "Yemayá, that broad expanse of Ocean, who lives both on sea and on land has pushed past modernity's mode of reason and taken up temporary sojourn on the insides of this artificial enclosure, come to accept, to cleanse, to bless, to remind us that in the same way the breaking of waves does not compromise the integrity of the Ocean, so too anything broken in our lives cannot compromise that cosmic flow to wholeness. The body cannot but surrender in order to make way for this tidal flow" (322). 
+
+
+::Lorain-flat
+
+::Michiana
+NORTH BY SOUTHEAST
+Growing up, I spent most of my summers on the beach in Michigan, with a grandfather who believed deeply in Black people's right to swim, a grand and inspiring belief. Canny with their postal workers' salaries, my grandparents were able to split a cottage with my grandmother's sister, in a community that included many other Black families "in from Chicago." They had found space to remember their own brand of land-loving Southernness by yearly heading north into Michigan.
+
+My mother used to talk a lot about how much she and her brother resented the Michigan house. To her thinking, it would've been better to ascend to one of the South Side's more solidly middle-class neighborhoods. Like, why go to Michigan when we could leave Englewood for Chatham? Forever. But my grandparents believed more in their little corner of Englewood than they did in the dreams of the Black bourgeoisie. [[Like Morrison's lake folk->[[Black is the Beach]]]], they were "able to live a long time believing, as coastal people do, that they are at the frontier where final exit and total escape are the only journeys left."[3]
+
+We lived less [fewer] than five miles from the same endless lake in Chicago, but I have no memory of my grandparents ever going there. We waited for Michigan.
+
+[Midpage video box that changes with mouseover]
+
+And every summer, I swam. Beach every day. Our Michigan community was made up of the numerous Black people who lived or summered there, and that is who we found on the beach, alongside the year-round whites who were less numerous, but with whom we somehow peacefully shared our hamlet. My grandfather always made sure we got back home early in the day, our internal clocks set to my grandmother's daily soaps. Like sand through the hourglass, he would say, grinning, and I knew it was time to head home. [Mouseover for Days of our lives]
+
+At night, filled with grits and greens and having finally fallen asleep in the arms of <i>Omni</i> or <i>Popular Science</i>, I would have these dream adventures, usually some kind of remix of the day's events, now awesome and secret. I remember that the entrance to these other lands was invariably behind a bush off one of the gravel roads heading toward the lake, and even today, I can remember the feeling of those places, close yet hidden, strange yet mine, because only I could see the map by which my own thoughts and dreams rendered the terrain.
+
+"It's time to head up to Michigan." I say this as we drive from Chicago to a rental in the tiny beach community where we used to dwell, the house sadly sold years ago. In passing I mention that we'll be stopping on the way to see a beloved cousin-aunt who lives and works on the far South Side.
+
+"How can that be on the way?" my oldest asks, and rather than snip, What, you think I don't know where we're going?, I laugh. I remember always being confused by this when I was little, listening to the grown-ups talk. They would say that we were "heading up" to Michigan, which suggested "north," which it indeed is. But to get there we drove south, since the Chicago interstates must all at some point curve around Lake Michigan. In Chicago, to go east on a highway you head south, and to go west you head north. This is all completely normal--except for the part where there is no east, because race makes space in Chicago: there is only the North Side, the West Side, and the South Side, all places you might know in your body long before you might see them as coordinates on a map.
+
+As we drive the endless miles of industrial Indiana, I watch my family's skepticism grow. They are rightfully intrigued by the huge plumes of poofy steam rising up from the steel mills, but it just doesn't scream "lakeside paradise." They love, though, the name for the corridor of cities and towns stretching from Chicago's far South Side border and up through the southernmost corner of Michigan: Michiana.
+
+Michiana. I say it as we pass through East Chicago and head toward Michigan City. I've always been interested in these midwestern liminalities, this proclivity for naming places according to where they are not, but where we're supposed to imagine them attached, a claim staked despite some unnamed displacement: Kansas City in Missouri, East St. Louis in Illinois, Indiana's East Chicago and Michigan City, which we are finally passing through now.
+
+When we finally arrive at the Michigan house it is evening, but we decide to head down the long series of steps to the lake anyway. Driving in, I had been immediately taken with every cliché of leave and return. It's been more than 20 years since I visited this tiny Black vacation land, and indeed everything is smaller. The tall hills I remember hustling up on my dirt bike are more like dips and swells. But I love feeling like I've grown up, even if some things do seem less epic than they once were.
+
+We come to the beach. Still beautiful, yes, but its scale has too radically shifted, and it terrifies me: here is the water, here are the waves, but the sand is nearly gone, the beach reduced to a narrow strip. The claim I have made to my children is that, for people like me, the Great Lakes are our oceans. But I guess I never fully computed that if they are indeed like the oceans, then they too are warming.
+
+The lake is rising; my childhood house has been razed; and these are not my people. The beach is strangely crowded, but, as far I can discern, we are the only Black people here. My eyes, unable to land, cannot rectify the overlay, this displacement across every register. I turn my camera to the sunset.
+
+Before walking down, tired, we almost chose just to perch on the large observation deck overlooking the lake, rather than head to the shore. There were people already there, and I remember first thinking that it wasn't worth trying to join them, then almost compulsively replacing the feeling with a desire to touch the water.
+
+For an instant, looking back, I imagine now that it must have been because the people already there were sprawled out, no masks in sight. I feel myself not having the energy to argue, as that thing becomes all the things, our current moment's other virality. Just as quickly, though, I realize that this must be wrong, because I am writing about a moment in the months before the pandemic. But the feeling of [[glitch and menace->Lorain-glitch]] was there too [[in the fading light->Black is the Beach]], [[in the August before->The Lossy Everyday]].
+
+
+
+
+	1	Morrison, Song of Solomon, p. 162. ↩
+	2	This article was commissioned by Stephanie Ann Frampton and Carolyn Dever.  
+
+
+::Lorain-glitch[hype]
+[Lorain beach, glitch, puffy towers of puff, newspaper snippets of disappearing coastline...]
+
+::Sands-tweets
+[Put "real" tweets behind the regular essay version  / Start as tweet thread overload, scroll into essay form +]
+
+[animate the text in making-breaking mouseover style to come in breakdance style; make it feel enlarged or conversational]
+                                                                                                    
+
+media/images/sands-tr-header.png
+[Add column for timestamps on left, in pale gray. Numbers appear after span of time. Blue highlights are mouseovers]
+
+Recently I was asked to write a thing for @PublicBooks, on teaching, learning, and 'doing' #digitalhumanities in the pandemic.
+I ended up with a #BlackDH essay about ontologies of digital mediation in the anthropocene--which is a fancy way of saying that[...]
+media/images/sands-PB-tweet.png
+For @PublicBooks I wrote about new and old forms of loss, of how remembering and forgetting are so tightly tied to experiences of space, to our experiences of natural and built environments. Black Americans have always had a fundamentally multidimensional relationship to space +
+In <i>Black Haunts in the Anthropocene</i> I contemplate Black multidimensionality as an experience of hybrid temporality, so deep historical embeddedness that requires us to constantly remix the present. Everything has a groove, [ animate w/ scrambletext  after display to entice mouseover (loop) ⇢ but nothing quite fits together.  <- use Benítez-Rojo archipelagos quote here/ quote has background animation is also accessible as an Island/standalone quote]
+media/images/BH-site-tweet.png
+
+I came to this by thinking about Black American relationships to built and natural environments. How racism-- forced migration, spatial displacement (segregation), psychic displacement (gaslighting)-- has structurally virtualized Black experiences of even the most material worlds +
+In other words, I theorize Black life as an experience of digitized layers. From double consciousness to code switching to the ubiquity of sample & remix, we learn to see simultaneously thru multiple lenses--sudden shifts in register, shades & haunts that enable futures. Breaks. + 
+That said, I wasn't thinking in this register when I began writing this @PublicBooks piece. In my work life I produce digital scholarship, run digital humanities centers, teach digital interactive methods, help scholars integrate & broaden DH and institutions [to] support them... + [this gets a good ole fashioned footnote]
+
+All just to say that I know that I am one of few humanities scholars who can say that they are actually all digital all the time.
+So let's just say I was stunned when I looked at the prompt and had nothing to say. I was asked to talk about 'doing digital,' and I only had tears.
+I tried to focus on some recent work I've been doing to think about mapping, Black ecology, and digitality. What can #digitalhumanities learn fr Black experiences of being digitized, often our bane, but also of being digital, what often emerges as a superpower, albeit hard won[?] +
+
+I also realized that I had to understand that this situation-- covid, pandemic, this strange sheltering that I'm writing about in @PublicBooks-- might be more new than not. On first thought I might have said that for me this newness didn't resonate with other experiences, +
+but then I realized that I didn't know if that was true. Actually, I wouldn't let myself think much at all. It's like my mind had become a version of the kind of shortstep walk my family unconsciously adopted in quarantine winter, bc we were always indoors, and our gait adapted.+
+In quarantine we were becoming versions of ourselves. This was especially true for my children, who changed schools during the pandemic. It's like they were there at school, but not. Like ghosts on the edges of their new social worlds. +
+Thinking the digital, being digitized, the little black zoomboxes as signifiers for trying to connect as a subset of (barely) manageable heartbreak. The power it takes to launch from a shortstep. This is not new; the pandemic story is less new than it is reasonable to admit. +
+Pause for tears. Thank you @schuyleresprit for reminding me of this. I am taken with the real problem of us all being here together but not. We are not ghosts, but yet what were we. We deserve elegies but should not -- we are here we are here we are here +
+media/images/Esprit-tweet.png
+
+So in thinking about what #BlackDH brings to this moment. My hot take on DH is that it's about having the freedom and skills to find or make the tools we need, in order to find or say what we might not otherwise be able to find or say. +
+In seeking my own degree zero for this edgelessness, for feeling ghosted in my own damn life, for this sense of suspension without rest, for my small fears for how the uncanniness of this experience will shape and inhabit my family... while in this mode I chanced upon a tweet +
+As I mention in the @PublicBooks essay, it arrived seemingly out of nowhere, and it helped me with my heartbreak. Or at least it helped me see it as heartbreak, and also as survivable. It's quote shared by @Edge_metron, and it wants to save our lives:
+media/images/Murdock-tweet.png
+
+That bit of serendipity helped me write a narrative digital-mapping essay about my own degree zero: grandparents, Chicago, and yet another Black house that is, for all intents and purposes, gone, faded in sync with the eroding Michiana coastline, subject to the same forces. +
+So this thread might be longer than the actual essay (!), but it's all just to say thank you, esp to @saframpton & @CarolynDever for an opp to do a hard thing + @bravohotelpapa for a thoughtful editorial eye.
+media/images/Frampton-tweet.png
+Finally, thanks to @PublicBooks for this image. It holds all the joy and fraught-- the charge, the freight-- of Black childhood on the Chicago coast. Ephemera and pleasure in segregated waters. I can't stop looking at it.
+Saudade [mouseover to videoclip of Morrison talking about sha sha sha] is not the new ashé, and [[[[yet]]]]... [dissolve to Chicago beach photo]
+
+
+::tweet version
+<!doctype html><html xmlns="http://www.w3.org/1999/xhtml"><head><title>Keynote</title><meta name="viewport" content="initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,width=device-width"/><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body id="body" bgcolor="black"><div id="stageArea"><div id="stage" class="stage"></div><div id="hyperlinkPlane" class="stage"></div></div><div id="slideshowNavigator"></div><div id="slideNumberControl"></div><div id="slideNumberDisplay"></div><div id="helpPlacard"></div><div id="waitingIndicator"><div id="waitingSpinner"></div></div><script src="assets/player/main.js"></script></body></html>
+
+
+
+::yet
+media/images/Chicago-1973.jpg
+Featured image: Children cool off in Lake Michigan at 12th Street Beach on Chicago's South Side in the summer of 1973. Photograph by John White / Wikimedia Commons // 
+
+Auto-transition to [[Null Island]], 
+
+::Null Island
+
+
+[[Dismal Swamp]]
+
+::No Scrubs
+No Scrubs
+[[As]] <- highly contingent
+
+::Dismal Swamp
+Dismal Swamp
+no map
+
+map and terrain
+
+Dionne Brand
+
+<<return "Back">>
+
+::Black is the Beach[hype]
+Black is the Beach // Dall-E → mockup in hype
+
+::Preamble[old]
+Preamble
+BLACK HAUNTS IN THE ANTHROPOCENE
+Marisa Parham
+
+This project, which is still a work in progress, elaborates a set of ideas I first started working with on my process blog, <a href= "https://mp285.com/nb" target="_blank">mp285.com/nb</a>. It began with a data visualization by Ben Schmidt, which I stumbled across on my Facebook feed. The map, and the other images collected at the site from which it came, affected me deeply. I was unsure why, but there was something about all the motion, the movement:
+<img class="inText" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/fx-black-haunts-tweet1.png"> ⇠ add animation
+ 
+A few weeks later I began working on a blog post titled "Black Haunts in the Anthropocene," which was written as a stream of consciousness response to a review essay in <i>The Boston Review</i>, a piece by Mark Johnston entitled "Is Life a Ponzi Scheme?" Though they are ostensibly unconnected, the Johnston essay for some reason organized some of my feelings about the map image that I hadn't quite been able to navigate beforehand. This sense of things coalescing was especially striking because I had come across both pieces while cruising my social media networks. My original posting was thus also informed by a feeling of things coming together with or without me, [⇠ mouseover makes clicking typing sounds (or modem lol)] through clicks that, in retrospect, I cannot characterize as intentional or not. Just clicks. ⇠ animate clicks
+
+ If you have spent any time in a social media space, you likely know the feeling, that combination of enjoyment, distress, and anticipation, of finding what you weren't looking for and looking all day for something that can't be found. I am reminded here of a status update I recently came across [⇠ tooltip the actual date] on Facebook. Itencapsulates the pleasure and the pain of the feed: 
+<img src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/christina-quote.png">
+
+<s> Before continuing with this site, I ask that you take a moment to click HERE and visit that previous post. It will open in a separate window, so that you can return here when you are done. It includes a link to the Johnston essay, which is useful to this discussion. It is also worthwhile to check out some of Ben Schmidt's other visualizations.</s>
+
+Before continuing with this site, I ask that you take a moment to click <a href="https://mp285.com/nb/black-anthropocene/" target="_blank"> here </a> to visit that previous post. It will open in a separate reference window, so that you can return to it as you move through this site.
+
+Learn more [[about this site, or how to use it->Now reset to 0]] 
+
+[[Continue->with or without me]] 
+
+or 
+
+[[Step into a world->the feed that hands you]]
+
+or [[dive->for the children]]
+
+::Haunting down data[code]
+	<h2><center>Haunting down data</center></h2>
+  
+<i>Black Haunts in the Anthropocene</i> began with a map, or more specifically, [[a chance encounter with a data visualization->Mapping]].
+<img src="https://blackhaunts.mp285.com/wp-content/uploads/2014/10/cropped-MauryMetadata1.png" width="75%" height="75%">
+
+This image, in which the fact of ships' movement itself comes to simulate the winds that powered global trade routes, is compelling because it elicits a sense of truth and evidence while simultaneously demonstrating nothing. It is suggestive because we are left to imagine the histories fanned by those dark wisps.
+
+I am reminded here of a course I taught a few years ago, titled <a href="https://blackhaunts.mp285.com/wp-content/uploads/2014/10/MParham-Syllabus_and_report_for_mellon-libre.pdf" target="_blank">Representing Slavery</a>. In that class, students were asked to spend a semester researching archival primary documents about the enslavement of black people in America, and to construct native digital presentations based in that research.
+
+<img src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/Evernote-20120310-14-40-57.jpg" align="left" width="30%" height="30%" margin:5px 5px>I remember one student, Katrina G., who was especially and rightfully overwhelmed by the preponderance of data. Huge books filled with shipping logs. Box upon box oxsf receipts. And massive ledgers populated with every data point pertaining to thousands of enslaved peoples. In her project she eventually had no choice than to focus on the names, on what wouldn't emerge as visible despite the overwhelming amount of data and information. What would it mean to bring that to life? What model, whose faces, would animate the record loss of an astounding magnitude?
+
+Years later, a different student from that same class, Elizabeth M. Alexander, produced a native digital undergraduate thesis, <i>My Weak Frame</i>, which similarly took up the question of what it would mean to interact with an obdurate archive, and to grapple with what is at stake in animating data's traumatic substrate. 
+
+In addition to thinking about our affective response to data, and also, again, toward a critique of the aesthetic narrativity of its visualization, it is useful to seek a method toward critiquing expressions of data that we often forget are data driven. I am thinking here of the work of someone like Fox Harrell, who reminds us of how narrative video games are driven by data. Even what might be experienced as the greatest moment of gaming freedom is absolutely constrained by an underlying database. The best that one can hope for then, is an exemplary remix, or the emergence of an especially compelling path.
+
+Taken together, we are left to wonder what new ways we might constitute the archive of black experience in the New World. From where is such data collected? How is it processed? How we articulate an experience of data? 
+
+<img src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/assassins_creed_wreckage_custom.jpg" align="left" width="30%" height="30%" margin:5px 5px>In one of my digital workgroup labs, The_ Critical_Is, we have been spending several months with a set of games from UbiSoft's <i>Assassin's Creed</i> series, <i>Assassin's Creed: Freedom Cry</i> and <i>Assassin's Creed: Liberation</i>, each of which is backdropped with an experience from New World slavery. 
+
+At one point in UbiSoft's <i>Freedom Cry</i>, the protagonist you play, Adewale, is tasked with rescuing enslaved Africans from a sinking slave ship newly arrived from the Middle Passage. They cannot all be saved. What kinds of data will we as players be motivated by? How do we configure a critical praxis when the work of neo-slave narratives is being taken up by a wholly new, deeply hybrid genre? <br><br>
+[add drunk adewale] <img src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/Screen-Shot-2014-10-10-at-7.20.35-AM1.png"  align="left" width="50%" height="50%" margin:5px 5px>> //change image to gif// Affectively, an important element of <i>Black Haunts in the Anthropocene</i> is an attempt to come to terms with an informational uncanny, to address what an encounter with data might elicit from us, and to wonder what "brings data to life." How will be parse our encounters with what would otherwise, eventually, be left aside. The reemergence of the drowned? Is something new? Or is this sense of what I experience today as animation simply an effect of improved representation? What do we mean when we insist that visualizations bring our data to life, and how are we to respond to this liveliness? [⇢ [[Ferguson]] ]
+
+ One more push [[Mapping]] // appears if didn't click mapping link
+ Or maybe just hit [[Slumbers]] // appears if un-visited
+ 
+ [[Ferguson]]
+
+::Mapping
+<div class="lcontainer" width="100%" height="200">
+<img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/Twitter-Ferguson1.jpg">
+</div>
+  
+ And, yes, all maps are technically data visualizations, representations of magnitude that we otherwise couldn't comprehend.
+  
+ In addition to the many excellent volumes on the history of cartography that have already been produced, as well as the meta intervention in <<link "Borges' conceptual inversion">><<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/Borges-snip.png]]><</popover>><</link>> and in <<link "Baudrillard's seminal elaboration on that inversion">><<popover 'noclick' 'invert'>>[img[https://blackhaunts.mp285.com/wp-content/uploads/2015/02/baudrillard-snippet.png]]><</popover>><</link>>, it might also be worthwhile to work conceptualizations of maps and mapping vis-à-vis contemporary media and also software studies' emphases on computer modeling and representation as its own kind of performance, á la Chun, Kittler, and Pias. 
+ 
+ Indeed, in other settings I have talked about how critical it is that a variety of disciplinary knowledges be brought to bear on the representational habits of digital humanists, particularly as it is easy for "digital humanists" to lose sight of the kinds of discursive baggage our visualizations can introduce into arguments that are otherwise invested in other matters. So much of digital humanities is pitched toward the historical: representation of other kinds of archives, redefinition of what constitutes the archive itself. 
+ 
+<<return "Return">>
+
+[[Dismal Swamp]] 
+[[Ferguson]]
+[[Sands]]
+
+
+::Slumbers
+<div class="lcontainer" width="100%" height="200">
+	<h2><center>Slumbers Seal, Slumbers Reveal</center></h2>
+    <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/pumzi-head.png">
+</div>
+  
+I describe "A Slumber Did My Spirit Seal" as a poem that breathes. I hear the breathing in the sibilance slippery softness of the opening lines,  generated by slumber, spirit, and seal. It is one of "the Lucy" poems, poems written by Wordsworth in contemplating the effects of a young girl's death, though I think we still don't know if the girl was 'real,'' even though we can be sure she is dead.
+The sibilance of the poem's opening lines also thematically complicate subject and object-- the speaker's spirit, living, is sealed by another's slumber, death. As she goes, so do we:
+<blockquote>
+A SLUMBER did my spirit seal;
+ I had no human fears:
+ She seemed a thing that could not feel 
+ The touch of earthly years.
+ No motion has she now, no force;
+ She neither hears nor sees;
+ Rolled round in earth's diurnal course, With rocks, and stones, and trees. [1799]
+ </blockquote>
+
+I thought of this poem when thinking about the winds //mouseover wind sound// represented on a map. I was thinking about our various traditions of human time, and how they have been potentially altered by the time of the human.
+
+I remember that in the course of thinking about these questions, I was lucky to go to the Studio Museum in Harlem, to see their excellent exhibition on Afrofuturist visual culture, <i>The Shadows Took Shape</i>. As a movement, afrofuturism is concerned with the radical means by which we recover a liberatory sense of living against a historical backdrop characterized by object status, by status itself as a data that tries to seal us of off from living and freedom. Afrofuturism embraces the future's necessary call to difference from today, and owns it. <a href="https://www.facebook.com/events/754430467980682" target="_blank">All activism is science fiction.</a>
+
+It was during that visit to the Studio Museum that I first I saw <i>Pumzi</i>, a short film out of Kenya, directed by Wanuri Kahiu. <i>Pumzi</i> helped me get at the wild peace I hear in "My Slumber" in the breathing that is not the loved one's, and also to imagine a future after any return to the soil. Kahiu's radical vision of love and hope helps us imagine life in the anthropocene. But not in the literal sense that we shall all plant trees and save the world. 
+
+[if reader hasn't acquired pumzi-tokens, then goto  [[Or will you dwell?->BLM]] ]
+[if reader has pumzi-tokens but hasn't viewed, then goto]
+Have you watched <i>[[Pumzi]]</i>yet? Click [[here->Pumzi]] to watch, or to bookmark it for later...
+ 
+
+
+::The Lossy Everyday
+<div class="lcontainer">
+	<h2><center>And then a pause ⇢ The Lossy Everyday</center></h2>
+    <img class ="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/cropped-KoS.jpg" height="300" width="100%">
+</div>
+In a speech titled "digital humanities in the anthropocene," [⇠ link] Bethany Nowivskie asks digital humanists to attend to both the physical and metaphysical dimensions of digital work, a necessity brought into sharp relief in this cultural and likely geological moment we refer to as "the anthropocene." In ways similar to the Mark Johnston essay that ignited the Black Haunts project, however, Nowivskie with great grace resists submergence into a negative discourse about the end of the world, asking us to acknowledge that we are "possessed of a knowledge that is sobering and rare. We, and the several generations that follow us, will bear knowing witness to the 6th great extinction of life on Earth." She takes this as a call to will:
+<blockquote>"What does that knowledge do to DH in the year 2014? What does it do to our <i>self-conception</i> as humanities computing practitioners? It is certainly a reminder of common ground and shared fate. Can it speak to us, as increasingly loosely-coupled guilds of scholars working across disciplines; as archivists and librarians; as guardians and interpreters of cultural heritage? Can it speak to us as technologists, developers, and specialists in method and form; as researchers, administrators, students, and shapers and makers of all kinds? What responsibilities, for the DH community, does this knowledge imply? What outlooks come more sharply into view?"</blockquote> [⇠ bring Purdom into this]
+To work in the digital is to pitch into the void; it is to choose to produce in already lost languages. On some level I accept that, but not always. I remember a few years ago switching to taking all of my daily notes with a digital pen, so that I could live the convenience of digital notetaking while still producing a paper trail. A trail to where I do not know, and for whom I can even less imagine. But at the time the switch seemed important. I generally don't have any deep attachment to paper. [⇠ this is a lie] Really, I am as happy with my digital notes as I am with my paper ones. But I cannot imagine that my digital notes have a future. Even though "the digital" is still our cultural sign for the new, for futurity, digital products have no future, at least not one to which we imagine them in address. 
+
+<left><img src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/computer-book-from-kirschenbaum.jpg" width="50%" height="auto"></left>
+
+ And yes, I know that there are many (though not enough) projects like BitCurator working on the question of how to carry the digital humanities into the future. But even if we were to solve the preservation problem(s), the proliferation, the constant rise and fall of digital technologies keeps us constantly aware of the unsuitability of any choice as future-proof. Writing this essay right now, I look to using the most common denominator software and methods, so that at least I have a shot at being cached, because I can imagine simple text persisting. I have no real reason to believe this.
+ 
+ At the same time, I write digitally because I am here and writing right now and, if nothing else, digital technologies are presentist technologies, allowing me to choose increased horizontal reach, dissemination, over sustainability, the long haul. This echoes something I hear in Nowviskie's talk, her sense that "We are here to live for a moment as best we can, to do our work, and to help our fellow-travelers muddle through their own short spans of time." What does it mean to produce scholarly and creative work in the face of "multiple extinctions; heart-breaking extinctions; boring, quotidian, barely-noticed extinctions--both the absences that echo through centuries, and the disposable erosions of our lossy everyday."
+ 
+ There is little new in the fact of the loss that Nowivskie identifies. The story she tells is a story about remainders, about what is left after. 
+
+[Stage a break into the present as a first person note on Nowivskie's response. Pick up that essay and actually respond. // also a good place to insert contemporary voices]
+
+[Transition depends on token hold to goto ]
+
+[[Matthew poems]]
+or
+[[Sands]]?
+
+::Matthew poems
+In someways it is no different than Wordsworth's 1799 performance, "Matthew,"<<link "a poem he stages as a poet's encounter with an old tablet, an artifact">> <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/matthew-clip1.png]]<</popover>><</link>> into which some schoolboys had engraved their names. Whatever else was inscribed on the tablet is gone, but the names, a lark, remain. Wordsworth asks that we take we experience the poem as coming out of the space between whatever was lost from the tablet and the obdurate materiality of the names, to emerge from the break:
+<blockquote>
+-- When through this little wreck of fame,
+ Cipher and syllable! thine eye
+ Has travelled down to Matthew's name,
+ Pause with no common sympathy.
+ </blockquote>
+I bring Wordsworth to this discussion because he was writing in a moment not dissimilar to ours, a moment when the sudden and widespread technologization of human life potentially imperiled humans' representation thereof. There is resonance in what gets produced in moments of crisis, in the moment between the arrival of new technologies and the techne that sustains in the wake of that arrival.
+
+There is also a sense that some marks will better sustain than others, and with that comes the profound irony of scratches and scribbles persisting beyond our most cherished works. In the example I began with, I have chosen my own scribbles over even the more finished objects produced out of them, and that I think them more mine than this essay is its own matter. 
+
+What is striking in the Matthew poem, and is concurrent with Nowivskie's text, is the poet's desire to mark slipped time, of knowing that the future has already arrived, even as we labor to produce the arts and humanities that speak to the current yet receding epoch. As Nowivskie puts it, "even while we delight in building the shiny and the new...we know that someone, sooner or later, curates bits against our ruins." Much of the work of the digital humanities is the work of recovery, even as we know ourselves as subject to the same kind of disappearance.  <<link "The importance of the doing is the doing,">><<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/queering-slavery-snip.png]]<</popover>><</link>> even as an act of productive protest against that which has not been done.
+
+The digitalist understands that she cannot know to which future her work is pitched, and as our history of media continues to extend, we only increase our sense of the lost and the lose-able. Loss, as Nowivskie postulates it, is "a kind of substrate" to the work of the humanities, and especially to the digital humanities. Looking at our own tablets, wondering what will remain, we are in common sympathy.
+ 
+It bears repeating: Even though "the digital" is still our cultural sign for the new, for futurity, digital products have no future, at least not one that we imagine them in address. The same can be said for myself-- [[or for anyone else->for the children]]
+
+[[As]] <- highly contingent
+
+[[Sands]]
+
+::BLM
+<div class="lcontainer">
+    <h2><center>#blacklivesmatter</center></h2>
+    <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/flyinglotusvid_0210142.jpg" width="100%" height="200">
+</div>
+  
+<div class="columns">
+Thinking about software, hardware, and the digital helps me to think about how to remove the ghost from Toni Morrison's <i>Beloved</i>, without removing its affective ghostliness, the haunting.
+
+This is important because it is actually somewhat difficult to make a claim regarding who or what Beloved is. We just say 'ghost' because it's easy, a catchall for that which is generated between erstwhile stable realms of knowledge and experience. <i>Beloved</i> is a novel about what happens in the wake of an individual's singular and too sharp encounter with a world of meaning that cycles along [with or without her->with or without me] but that is, regardless, there and waiting. It is a novel about things virtually no one could or should ever comprehend, <<link "Sethe's head-first dive into mediation.">> <<popover 'opaque'>>\
+        Wendy Chun tells us: "Software perpetuates certain notions of seeing as knowing, of reading and readability that were supposed to have faded with the waning of indexicality. It does so by mimicking both ideology and ideology critique, by conflating executable with execution, program with process, order with action."
+<</link>>
+
+This line of thought broadens the central ideological conflict in <i>Beloved</i>, which is a way of thinking about the deep differences between Sethe and Baby Suggs, between Sethe's belief in an abstract dominion, and Baby Suggs in the holiness of flesh on the earth, Sethe's virtuality and Baby Suggs' deep rejection thereof. For Baby Suggs, black life is matter. Flesh. Without this kind of singular focus on the fact of living, we are left only to utter #blacklifematters when a life has been lost, when the flesh is gone.
+
+When I say "ideological conflict," I do indeed mean ideological conflict. But despite the appropriateness of the term, this language seems all wrong. In this example, my interest in Seth is mainly a precipitate of my looking for a way to get at Baby Sugg's connectedness without recourse to clichés about her being "down to earth," while also thinking about Sethe's willingness to fly from it. I am thinking about the beauty of <i>Song of Solomon</i>'s ending lines, "if you surrendered to the air, you could ride it," and how the beauty of the sentiment screens us from the ugliness of the encounter, a choice Morrison makes throughout that novel. 
+
+There is something here about the abstract and the material that is difficult to suss out because the abstract is nonetheless material to our living in the world. Wanting to hear her sermon, I come across the word 'antiphony.' Perhaps Baby Suggs and Sethe are in antiphony, each singing the same song wrong. Thinking about digital media, particularly in its capacity to speed re-mediation, to let the "wrong" things come together, helps me to intuit the uncanniness of antiphonal performance, and to think about the horrors that are repressed or sublimated "in the break," as Fred Moten conceives it. 
+
+It is the antiphonic impulse that Ralph Ellison's narrator ventriloquizes in <i>Invisible Man</i>. It is the difference between <<link "the signal and the call.">>
+    <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/signal-call.jpg]]<</popover>>
+<</link>>
+
+Antiphony is in the everyday grace we can hear in the melody of Louis Armstrong's <a href="https://youtu.be/-vDm1lomVHU" target="_blank">What did I do to be so black and blue</a>, set against the near-suicide of its lyrics.
+
+In <i>Beloved</i>, we are witness to antiphony when we hear, in Baby Sugg's sermon, the voices voicing <a href="https://youtu.be/3vRFLgbIUWQ" target="_blank">in the film version of this scene</a>. It is also in the clockwise and counterclockwise movements of the participants, the turning of the clock, gears backward and forward, forward and back.
+</div>
+
+<hr class="rounded">
+ In There is No Software, media theorist Friedrich Kittler elaborates on the distinction between the kinds of software that drove earlier processors, versus the increasingly graphical interfaces - IFTTT is today's best example -- that disappear the mechanism by which a machine is controlled, insofar as "perfect graphic user interfaces, since they dispense with writing itself, hide a whole machine from its users." In thinking of the graphic antiphony we're given in the film version of <i>Beloved</i>, and thinking it against Sethe's "rememory," I also hear Kittler's invocation of the digital's own root origin, which has also become its antithesis:
+<blockquote>This structural difference can be easily illustrated. "A combination lock," for instance, "is a finite automaton, but it is not ordinarily decomposable into a base set of elementary-type components that can be reconfigured to simulate an arbitrary physical system. As a consequence it is not structurally programmable, and in this case it is effectively programmable only in the limited sense that its state can be set for achieving a limited class of behaviours." On the contrary, "a digital computer used to simulate a combination lock is structurally programmable since the behaviour is achieved by synthesizing it from a canonical set of primitive switching components."</blockquote>
+ Like the digital, rememory is that which has origin, but is also discrete from it, unrooted. This video, directed by Hiro Murai for Flying Lotus (featuring Kendrick Lamar!), demonstrates this unrootedness. It's beauty, like those closing line of <i>Song of Solomon</i>, cloak the violence of the uprootedness we can assume lay at the visual story's own origin, the death of children here remediated into an ecstatic animation:<iframe src="https://player.vimeo.com/video/108194249?h=eb5e189c32" height="360" width="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+In Murai's video, the visual effect of the dancers is that of bodies moving in a timeframe distinct from the background against which they appear. As far as I can tell this is an element of the video that looks like a technical special effect, but it may in fact be generated by affect, by the deep distance between the setting, a funeral for children, and the joyous celebration embodied in their movement. They are, literally, operating on another level. We can tell that Murai is trying to draw attention to the effect. Inside the church, the flickering parlor lights at the beginning of the video, the coffin in front of the blinds, almost like static, and then the clapping of the choir, which is synced to the track, matches the childrens' movement but, backlit, they are more like angels than congregants. Outside, Murai forces us to experience the dancers' moving amongst other children who are also in motion- though clearly in a different way.
+
+ If we return to the image of Baby Sugg's sermon, we can see how the diffusion of feeling across the congregants makes their service bearable: #blacklifematters. In the Flying Lotus video, the dancing children transmit every position, joy and sorrow. Now transcendent, their dance, from the Lindyhop to the cabbage patch, carries the viewer across the generations. Unfortunately, they are out of sync with our sense of the meaningfulness of their demise. IS this what Sethe imagines, in love with a handsaw? 
+
+ To never be caught is to fly but, even here, to fly is to ______ . <code>[/hook video.asset #istandwithbabysuggs ?#blacklifematters]</code> 
+ That isn't an error. That is a dream in the substrate. Meanwhile, [[with or without me?:->with or without me]]
+ 
+ [[The lost baby poem]]
+
+::for the children
+<div class="lcontainer">
+<h2><center>Common sympathy ⇢ for the children</center></h2>
+<img class ="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/sheep2.png" height="300" width="100%">
+</div>
+  
+<i>Common Sympathy:</i>
+<div class="columns">
+I am thinking about the feed and what social media demands of us, as I mention in my preface to this project, and also in a timestamp from just a few minutes ago. I am also thinking about the languages we use to make the future affectively comprehensible, even while it is not knowable.
+
+ In <i>Love Your Monsters</i>, Bruno Latour uses the tale of Frankenstein as an imperative to let go of false distinctions between human and object, nature and culture, the technological and everything else. For Latour, the figure that makes an idea of the future comprehensible is that of the child, in this case the nature-culture hybrid Frankenstein. In thinking about the anthropocene, Latour asks that we begin with the idea that humans have failed to take responsibility of that which we have created, rather than begin discursively with the idea that humans have failed to caretake the Earth, an empty claim disconnected from the actual lifeworlds we have created and that blames technology for its negative effects. His point is simple: the technological cannot be understood as an agent because "the technological" is an extension of the human. Blame habits and actions, even as our habits and actions are themselves shaped by that which we have created:
+
+<blockquote>"Written at the dawn of the great technological revolutions that would define the 19th and 20th centuries, <i>Frankenstein</i> foresees that the gigantic sins that were to be committed would hide a much greater sin. It is not the case that we have failed to care for Creation, but that we have failed to care for our technological creations. We confuse the monster for its creator and blame our sins against Nature upon our creations. But our sin is not that we created technologies but that we failed to love and care for them. It is as if we decided that we were unable to follow through with the education of our children."</blockquote>
+ Latour's point is well-taken, and I see why Bethany Nowivskie, whose essay I have discussed [[here->The Lossy Everyday]], includes it in her own meditation. In humanist discourse, to produce scholarship is to imagine taking responsibility for the future by shaping the course of human knowledge. This runs counter to the impulse identified in Latour's essay, which speaks to our discomfort and at times refusal to take responsibility for our technological inventions, inventions that often come into being in ways similar to intellectual creation, and with similar claims to the future of the human world.What would it mean to resist abdicating responsibility to creations that make us uncomfortable in their own displays of being or mastery? In fearing our monsters, the hybrid children we create, we also become fearful of our own future, as we build the wheels, set them in motion, and then call 'fate.' 
+
+ <img class="inText" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/vanishing.jpg"> In "The Future of Time," Toni Morrison is thinking about a similar set of issues from a different perspective, for she sees in this abdication a refusal to admit responsibility for the future, a refusal that mainly plays out as an obsession with understanding the future as an analog extension of a past still open to investigation and, by extension, revision, an obsession with making historical claims rather than setting new, future goals. The consequence of such obsession is the diminishment of time itself, a constant fear of the future:
+
+<blockquote>"Time is, of course, a human concept, yet in the late twentieth century (unlike in earlier ones) it seems to have no future that can accommodate the species that organizes, employs and meditates on it. The course of time seems to be narrowing to a vanishing point beyond which humanity neither exists nor wants to. It is singular, this diminished, already withered desire for a future." </blockquote>
+ What I hear in Morrison's admonishment is her concern with what our fear of being outstripped by technology has wrought, namely an assumption that the future will not be determined by us, but instead by that which we create. Morrison identifies this flagging confidence in the future as a result of the atomic age, the Cold War, when the technologies of war exponentialized politics by replacing death and destruction with sudden annihilation. The future is the place of the always coming annihilation, and must thus be avoided at all costs. Presaging Latour by almost twenty years, Morrison senses in this diminishment a similar abdication to the future has beyond human intervention and control, even as it is made by humans, pointing out that in the technologically developed world, "where advance, progress and change have been signatory features," is "where confidence in an enduring future is at its slightest."
+
+[Make Nowivskie a new sentence and a link] It cannot be denied that the issues identified by Nowivskie, Latour, and Morrison have consequences for how we conceptualize the future of human life. But insofar as all the "we's" in this human world have not experienced the past in the same way, perhaps the question of [[how we might remember to imagine new futures can be broadened by thinking it differently.->Slumbers]] In this I hear my own constant concern, which comes to me in my grandfather's voice:
+
+What does all of this [[mean->blm_webkit]]  for black people?   
+</div>
+
+[[The lost baby poem]]
+
+::the feed that hands you
+<div class="lcontainer" width="100%">
+<img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/rc51apms.gif" width="100%" ></div>
+
+ It is almost 10 a.m. and I have turned to Facebook because all this talk of the digital dead is making me tired and I am seeking company and relief and cute animal pictures, perhaps some intelligent discourse on the otter, to get me thinking again.
+
+ I catch some <<link "lovely hellos.">>
+    <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/ronni-snippet-2.png]]<</popover>>
+<</link>>
+
+Hello!
+
+And then I am fed a <i>Scandal</i> meme. 
+<img class="inText" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/andre-snippet.png">
+
+ LOL. I totally would have thought the same thing. This feed is delicious. That's <i>totally</i> what I felt when I saw that scene.
+
+ I am #winning on the feeding, until I catch "a map of lynchings." Great. <<link "A data visualization.">>
+    <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/mckiernan-gonzalez-snippet.png]]<</popover>>
+<</link>> Now I am overwhelmed with losing.
+
+ I return here to my essay about this non-thing that has just happened to me, to take a moment to add it to my own stream. I go back to my feed to grab the image. It is already gone. I go looking for it and, after finding a different map, I can figure where the first one came from. More clicking. 
+
+ <i>Why am I doing this right now?</i> I cannot tell you. I see that my Facebook feed has switched itself back from "most recent stories" to "top stories." With or without me- I cannot remember why I am here. // link only appears if haven't visited // 
+
+ I keep clicking. This just in: <a href="https://www.washingtonpost.com/news/wonk/wp/2014/10/18/poor-kids-who-do-everything-right-dont-do-better-than-rich-kids-who-do-everything-wrong" target="_blank">Poor kids who do everything right don't do better than rich kids who do everything wrong.</a>
+
+ Great.
+
+ In the café where I am sitting, my approximately twenty third favorite song of all time has come on. It's a song that draws an analogy between the distance between oneself and a love interest and the difficulty one would have communicating with someone under the sea, communicating in a different medium.
+
+ The conclusion? "Just because it's real doesn't mean it's gonna work."
+
+ It's a really cute song; you can listen to it  
+<iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/9077942&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/littlelinds" title="littlelinds" target="_blank" style="color: #cccccc; text-decoration: none;">littlelinds</a> · <a href="https://soundcloud.com/littlelinds/the-blow-true-affection" title="The Blow - True Affection" target="_blank" style="color: #cccccc; text-decoration: none;">The Blow - True Affection</a></div>
+<a class="btn" href="#otter">... while you contemplate this discourse on the otter.</a><div id="otter" class="modal-window"><a href="#" title="Close" class="modal-close">Close</a><img src= "https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/otter-snipped.png"></div> 
+
+<<link "while you contemplate this discourse on the otter.">>
+    <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/otter-snipped.png]]<</popover>>
+<</link>> 
+
+ If you don't remember how you got to this page, <<return "return">> to where you came from, or be dropped somewhere you've never been before. // link to random unvisited page // 
+
+ Or remember that this is a story about [[data ->Haunting down data]] as an environment, the map and the terrain...
+</div>
+
+visit [[Null Island]]
+
+admit [[No Scrubs]] 
+or delve into [[The Lossy Everyday]]
+
+::with or without me
+<div class="lcontainer" width="100%" height="200">
+	<h2><center>[with or without me]</center></h2>
+    <img class="lcover" src="https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/suggs-header-1.png">
+</div>
+
+While writing text for <i>Black Haunts in the Anthropocene</i>, I have been struck by my recurring sense of what it means to experience things that happen with or without me. One the one hand it is just not that interesting. That is simply what it means to live in the world. It happens with or without me. I rarely think about it, because underlying this is a nascent intimation of my own mortality. "With or without me" is a statement about will; my choices are irrelevant in the flow of time. It is also a statement about materiality. The world is never contingent on my presence, and that statement can never be reversed. If you think back to the poem, "A Slumber Did My Spirit Seal," this is the fundamental irony inherent in setting its aural breathiness against the obdurate materiality- corporeality, mortality- visualized by the poem. This poem about the dead breathes, and the dead thus become "the dead," virtually alive. ⇢ <<link "Rocks, stones, trees, me.">>
+    <<popover 'opaque'>>\
+    You can hear the breathing in this poem, in the sibilance...
+        <blockquote>
+    A SLUMBER did my spirit seal; 
+    I had no human fears: 
+    She seemed a thing that could not feel 
+    The touch of earthly years. 
+    No motion has she now, no force; 
+    She neither hears nor sees; 
+    Rolled round in earth's diurnal course, 
+    With rocks, and stones, and trees. [1799]</blockquote> 
+    \<</popover>>
+<</link>>
+
+<img class="inText" src="https://i0.wp.com/litreactor.com/sites/default/files/images/column/kaling-1.jpg" height="50%" width="50%">
+
+Against such contemplation, we breath. Social media feeds, however, force us to self-consciously live in the space between virtuality and embodiment. I open a window and enter the stream. The stream, algorithmically tuned to me, is there waiting for me. In its <strike>attenuation</strike> to me it is generated by an idea of what "I" am. This is different from my me-ness, which is now irrelevant since it no longer needs me. It only needed me to come into being once, maybe twice, and it will continue to represent me even when I am gone, feeding itself with <a href="https://slate.com/human-interest/2014/06/big-data-whats-even-creepier-than-target-guessing-that-youre-pregnant.html" target="_blank">a future of me that has already been made,</a> that I am making right now.
+
+We might be reminded here of <<link "Toni Morrison's notion of rememory, the conceptual modus operandi for her novel <i>Beloved</i>.">>
+    <<popover 'opaque'>>\
+        <blockquote>
+    "What were you talking about?" <br><br>
+    "You won't understand, baby." <br><br>
+    "Yes, I will." <br><br>
+    "I was talking about time. It's so hard for me to believe in it. Some things go. Pass on. Some things just stay. I used to think it was my rememory. You know. Some things you forget. Other things you never do. But it's not. Places, places are still there. If a house burns down, it's gone, but the place-the picture of it-stays, and not just in my rememory, but out there, in the world. What I remember is a picture floating around out there outside my head. I mean, even if I don't think it, even if I die, the picture of what I did, or knew, or saw is still out there. Right in the place where it happened." <br><br>
+    "Can other people see it?" asked Denver. <br><br>
+    "Oh, yes. Oh, yes, yes, yes. Someday you be walking down the road and you hear something or see something going on. So clear. And you think it's you thinking it up. A thought picture. But no. It's when you bump into a rememory that belongs to somebody else. Where I was before I came here, that place is real. It's never going away. Even if the whole farm-every tree and grass blade of it dies.The picture is still there and what's more, if you go there-you who never was there-if you go there and stand in the place where it was, it will happen again; it will be there for you, waiting for you. So, Denver, you can't never go there. Never. Because even though it's all over- over and done with-it's going to always be there waiting for you. That's how come I had to get all my children out. No matter what." <br><br>
+    Denver picked at her fingernails. "If it's still there, waiting, that must mean that nothing ever dies." <br><br>
+    Sethe looked right in Denver's face. "Nothing ever does," she said.</blockquote>
+    \<</popover>>
+<</link>>
+
+Rememory helps us to understand the myriad traumas of our experience in digital spaces. Indeed, rememory is a way of considering how we have always been digital, and that the modes of representation and experience that we today refer to as such cannot be separated from previous human experience. It is thus reasonable to see the digital as a constitutive component of the past. ⇢
+
+If it is in your head and you can't get it out, this. // unfold link
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6QPhpvO1pWDS91EsEmzsbc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<<return "back">>
+
+::intro move 1
+[Whisper] There is a theory that the Anthropocene's first origin is not with the rapid industrialization of the northern hemisphere's cities, but that it is instead in the material incidence of mass death introduced to the Americas by European colonialism. The idea is conceptually useful because it gives us a  way to thematize the social, technological, and historical scale of transcontinental colonialism, the immensity of its multiple and overlapping destructions. This feeling of having been destroyed resonates across Black, indigenous, and mestizo communities still today, as generations work to make the world a place of thriving in the wake of colonialism, genocide, and enslavement.  
+[Turn] And this is more than a feeling; it is is literally in the air. It is estimated that in the fifty years following the first Spanish ships' arrival in what is now known as ???,  #### of the western hemisphere's indigenous populations died from disease and murder. This devastation, which is so often and rightfully articulated in terms of human loss, justice, and mourning, is also an explicitly environmental concern. The aggregate effect of mass death can be measured in the trees razed for large scale graves and, as ??? has shown, in the sudden release of massive amounts of methane into the Earth's atmosphere . By some estimates, the methane released by the decay of millions of slaughtered people would have been at least ### metric tons, which is equivalent to xxx xxx or xxx xxx and xxx. 
+In the coming centuries, mass deforestation, mining, and mono-crop plantation farming would add an additional ### metric tons, which means then that the timeline for thinking about one of the predominating concerns in public environmental discourse, greenhouse gas emissions, begins not with European and American industrializations, but in their own shared origin in New World colonialism, the genocide of indigenous peoples and the seizing of their lands, and the development of transatlantic slavery to manifest the multiple projects of settler colonialism.
+[[This is not that story.->intro move 2]]
+
+::intro move 2
+This is the story about what it means to live after, in what Christina Sharpe has described as "wake work," and also what I have elsewhere referred to as a kind of engaged critical hauntology.[8] It is a story interested in the convergence and divergence of two waves. It is about the kinds of stories that emerge when we put the critical possibilities of media ecology into conversation with the haunted metaphysics of Black diasporic lives. This is a story of a planet and of bodies that share histoies of extraction but that also, of themselves and in themselves, remember. Remembering as an environmental practice.  
+To be clear is not about certain populations being like the Earth, as being "natural" or "of nature," but is instead about understanding how people have survived terrible histories in the Americas without recourse to contemporary discourses regarding notions of rights, harm, and repair. Historically this may have been a pathway to understanding some of the strategies through which people make their own futures possible. 
+The following project is a meditation on how a consideration of the hybrid temporalities of African American experience enlarges the conceptual frame for other contemporary characterizations of time itself, for instance critical evocations of deep time and of the anthropocene. 
+ Media ecology and black life, earth and bodies that share this history of extraction. mapping violence on land and flesh, invisible scars, which find expression in immaterial ways ⇢ end with leap to digital as tour de force manifesto. Make this a brief and powerful ⇢ Do black glitch as close reading of hot thing as digital reading; read never catch me as digital expression of time out of sync.
+
+::Noctalgia
+
+::backwater blues[hd]
+backwater blues
+
+::The Salton Sea[hd]
+The Salton Sea[new]
+
+::Miasmas[hd]
+Miasmas[new]
+
+::As
+As
+The End
+
+::The lost baby poem
+The lost baby poem
+
+
+
+
+
+[[blm_webkit]]
+
+::H-E-L-L-O
+<iframe src="https://player.vimeo.com/video/585441508?h=8449969217" width="640" height="327" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/585441508">The Great Hall Exhibition Series, &quot;Cauleen Smith in Conversation with Mabel O. Wilson&quot;</a> from <a href="https://vimeo.com/ifa">The Institute of Fine Arts</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+17:00
+
+
+Finally a clean excerpt
+
+https://ifa.nyu.edu/cauleensmith/
+
+
+The Black School-H-E-L-L-O Response
+https://vimeo.com/552982872
+
+::Split Time
+All I Need / coke commercial
+
+::Notes[about]
+Notes[about]
+Preamble
+
+The original post includes a link to the Johnston essay, which is useful to this discussion.
+
+It is also worthwhile to check out some of Ben Schmidt's other visualizations.
+
+<<return "back">>
+
+::Now reset to 0[about]
+<i> Let me begin with a quick caveat, an explanation, a request, and a "thank you":</i>
+
+<b>A caveat ⇢</b> Throughout this site I rely on lots of links to short articles and such, to help readers get a sense of the sense of the anthropocene that I am working with. Many of these links are not to any kind of authoritative source. That is intentional. The "anthropocene" is a recent term and, while it is meaningful in scientific circles, it is important that the term has been circulating heavily outside of such structures. Indeed, part of what I find interesting about the term is how we use it to capture an important sense of indeterminancy, a sense that "something" has happened, is happening, but that its meaningfulness is difficult to discern, even as its effects are felt. We are out of sync with the future. 
+
+ <b>Let me explain something ⇢</b> As you might have guessed, <i>Black Haunts in the Anthropocene</i> is a digital essay. It is important that it be digital because my argument is driven by a sense that our contemporary consciousness of the anthropocene is in itself a media effect. For me, there is something nascent here that speaks to a sense of human time that has been influenced by our daily experience of the digital. I, nor anyone else at this point, can make the call on whether the changes in our world were to comewith or without us.  But it may in fact be the case that our apprehension of this moment is made possible through an increased attenuation. In this sense "digital" marks a kind of movement, and this essay, though somewhat static nonetheless, can at least present its various texts in their proper forms.
+ 
+ <b>No, really ⇢ <i>Please.</i></b> The media forms represented in this essay are here for a reason,  links link, music plays, and the short film <i>Pumzi</i> is incredibly important. Please allow time to experience the various texts presented in the course of this argument. Avoid the impulse to privilege reading over the other kinds of representation in this essay. If modality weren't on the table, I would have just sent you some photocopies. (You, whoever you are!)
+ 
+ And finally, a thank you ⇢ Thank you to anyone who takes the time to play with this site, but a special thanks to Princeton's CAAS for the opportunity to present this work in progress, and to be a part of the amazing 'Black Studies in the Digital Age' workshop series. After the presentation, I will open each section for comments. I look forward to continuing our face to face conversations here.
+ 
+<b>Abstract</b>
+The work recorded in this current version of <i>Black Haunts</i> is particularly interested in how contemporary cultural, political, and scientific notions of the <a href="https://www.smithsonianmag.com/science-nature/what-is-the-anthropocene-and-are-we-in-it-164801414/" target="_blank">'anthropocene'</a> cohere with matters of temporality in recent black literature and culture. To get at this I will offer three, short approaches to thinking the anthropocene.
+
+<i>(Again, as I mentioned in the preamble, this argument assumes that you have already spent time with my micro essay that preceded this project. If not, you can find it here.)</i>
+
+Exploration 1 :: #yournamehere : between activism and the archive
+Exploration 2 :: digital melancholia and "the future of time"
+Exploration 3 :: loving monsters or, the deep time of afrofuturism
+
+<<return "Back">>
+
+----------
+[1] Summers and Hawksey note,
+[2] /a>
+[3] As well, as Toneisha Taylor, Jules Bergis, and other have noted on their work with developing social media archives in the wake of Ferguson, the presentist orientation of tweeting, the thing done in the moment, problematizes the very idea of archival work, for instance when tweeters want to delete their tweets after an event has passed.
+[4] https://srogers.carto.com/viz/64f6c0f4-745d-11e4-b4e1-0e4fddd5de28/public_map
+[5] http://www.dailymail.co.uk/news/article-2850236/How-nation-exploded-grand-jury-verdict-Twitter-heat-map-shows-3-5million-Ferguson-tweets-sent-news-broke-Darren-Wilson-not-face-trial.html
+[6] https://jeffreymoro.com/2015/09/02/on-seeing-through-Twitter/" target="_blank"
+[7] Teju Cole note on the time of the game.
+[8] Sharpe, Christina.
