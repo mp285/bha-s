@@ -17,7 +17,7 @@
 bha-s is my title-merging
 
 
-UserScript[script]
+:: UserScript[script]
 (function () {
     'use strict';
     // popover macro, by chapel, for SugarCube 2
@@ -70,7 +70,7 @@ UserScript[script]
     setup.popover = popover;
 }());
 
-::UserStylesheet[stylesheet]
+:: UserStylesheet[stylesheet]
 UserStylesheet[stylesheet]
 /* landing_page */
   @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
