@@ -804,7 +804,7 @@ It was during that visit to the Studio Museum that I first I saw <i>Pumzi</i>, a
 
 [if reader hasn't acquired pumzi-tokens, then goto  [[Or will you dwell?->BLM]] ]
 [if reader has pumzi-tokens but hasn't viewed, then goto]
-Have you watched <i>[[Pumzi]]</i>yet? Click [[here->Pumzi]] to watch, or to bookmark it for later...
+Have you watched <i>[[Pumzi]]</i> yet? Click [[here->Pumzi]] to watch, or to bookmark it for later...
  
 
 
