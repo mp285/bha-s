@@ -331,16 +331,28 @@ h3 {
     color: #111;
 }
 
-::StoryMenu[structure]
+:: StoryMenu[structure]
 
 <A HREF="javascript:window.print()">Click to Print This Page</A>
 <input type="button" value="Print" onClick="window.print()">
+<br/>
+[[Compass]]
+<br/>
+[[Begin|Preamble]]
+[[Index]]
+[[Works Cited]]
 
+:: Compass
+
+<b>islands</b>
 
 [[shange epi]]
 [[drucker quote]]
 [[Archipelagos]]
 [[Pumzi]]
+[[morrison-sha-sha-sha]]
+
+<b>adaptations</b>
 
 [[Sands]]
 [[Lorain]]
@@ -353,6 +365,8 @@ h3 {
 [[No Scrubs]]
 [[Dismal Swamp]]
 [[Black is the Beach]]
+
+<b>originals</b>
 
 [[Haunting down data]]
 [[Mapping]]
@@ -377,6 +391,7 @@ h3 {
 [[Now reset to 0]]
 
 /* include links */
+<b>includes</b>
 
 [[Baudrillard]]
 [[Borges]]
@@ -389,9 +404,7 @@ h3 {
 [[Sethe]]
 [[Signal]]
 [[Slumber]]
-[[morrison-sha-sha-sha]]
-
-
+[[morrison-sha-sha-sha]] <-- also an island
 
 /* INCLUDES */
 
@@ -407,7 +420,7 @@ h3 {
 /* Matthew poems */<<link "The importance of the doing is the doing,">>  
 <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2014/10/queering-slavery-snip.png]]<</popover>><</link>>
 
- :: Hola {"position":"1100,1500","size":"100,100"}
+:: Hola
 /* the feed that hands you */<<link "lovely hellos">>
 <<popover 'noclick' 'invert'>>[img[https://i0.wp.com/blackhaunts.mp285.com/wp-content/uploads/2015/02/ronni-snippet-2.png]]<</popover>><</link>> 
 
@@ -502,9 +515,6 @@ Tie to Macharia's asymptote
 
 
 ::Pumzi
-
-
-
 
 <div style="padding:56.21% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/46891859?h=b4741fdb38&autoplay=1&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
 
