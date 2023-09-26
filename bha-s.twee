@@ -1,5 +1,5 @@
 :: StoryTitle
-bha-s is my title-merging
+bha-s has merged
 
 
 :: StoryData
@@ -407,10 +407,11 @@ h3 {
 [[morrison-sha-sha-sha]] <-- also an island
 
 /* MetaStuff */
+
+
 :: Index
 
 :: Works Cited
-
 
 
 /* INCLUDES */
@@ -480,7 +481,7 @@ h3 {
     \<</popover>><</link>>
 
 :: Slumber2 {"position":"900,1500","size":"100,100"}
-/* with or without me */<<link "Rocks, stones, trees, me.">>
+/* with or without me */ <<link "Rocks, stones, trees, me.">>
     <<popover 'opaque'>>\
     You can hear the breathing in this poem, in the sibilance…
         <blockquote>
@@ -762,13 +763,13 @@ A few weeks later I began working on a blog post titled "Black Haunts in the Ant
 
 Before continuing with this site, I ask that you take a moment to click <a href="https://mp285.com/nb/black-anthropocene/" target="_blank"> here </a> to visit that previous post. It will open in a separate reference window, so that you can return to it as you move through this site.
 
-Learn more [[about this site, or how to use it->Now reset to 0]] 
+Learn more [[about this site, including how to use it->Now reset to 0]] 
 
-[[Continue->with or without me]] 
+[[Consider the future ->with or without me]] 
 
 or 
 
-[[Step into a world->the feed that hands you]]
+[[Step into a present moment->the feed that hands you]]
 
 or [[dive->for the children]]
 
