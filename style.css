@@ -1,0 +1,256 @@
+/* landing_page */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+
+.lcontainer {
+  position: relative;
+  max-width: 100%;
+  height: auto;
+}
+
+.lcover {
+  max-width: 100%;
+  height: 200px;
+  display: grid;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* 
+.title {
+  position: absolute;
+  top: 20%;
+  left: 8%;
+  font-family: 'Megrim', cursive, 'Garamond', serif;
+  font-size: 22px;
+  font-weight: bold;
+  color: white;
+  text-shadow: -1px 1px 0 #000;
+  overflow: hidden;
+  animation: animate 2s linear forwards;
+  */
+
+/*
+@keyframes animate {
+			0% {
+				width: 0px;
+				height: 0px;
+			}
+			40% {
+				width: 50px;
+				height: 5px;
+			}
+			80% {
+				width: 80px;
+				height: 10px;
+			}
+		}
+}
+*/
+
+.author {
+  position: absolute;
+  bottom: 18%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  text-shadow: -1px 1px 0 #000000;
+}
+
+.button {
+  position: absolute;
+  bottom: 5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+  background-color: #e7e7e7 !important;
+  text-shadow: -1px 1px 0 #000;
+  text-align: center;
+  border: 1px solid #e7e7e7;
+  border-radius: 8px;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  font-size: 16px;
+  line-height: 2;
+  color: #333333;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #333333;
+    background-color: #fff;
+}
+
+.inText {
+  display: inline-block !important;
+  width: 45%;
+  height: auto; 
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.bottomlinks, .pages {
+  font-family: 'Raleway', sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: black;
+}
+  
+
+/* columns: blm, children, etc */
+.columns {
+	-webkit-column-count: 2;
+	-moz-column-count: 2;
+	column-count: 2;
+}
+  
+/* #blm */
+code {
+  color: red;
+}
+
+hr.rounded {
+  border-top: 8px solid #D3D3D3;
+  border-radius: 5px;
+}
+
+blockquote {
+  font-size: 16px
+}
+  
+  
+/* lossy everyday */
+h2 {
+  text-align: center;
+  font-family: 'Raleway','Arimo', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  color: black;
+  line-height: 1.25;
+}
+  
+/* modal buttons / pop-ups */
+.container {
+  display: inline-block !important;
+}
+
+h3 {
+  font-family: 'Helvetica','Arimo', sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #333333;
+  background-color: #FFFFFF;
+}
+
+.modal-window {
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.25);
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 999;
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s;
+}
+.modal-window:target {
+  visibility: visible;
+  opacity: 1;
+  pointer-events: auto;
+}
+.modal-window > div {
+  width: 400px;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 2em;
+  background: white;
+}
+.modal-window header {
+  font-weight: bold;
+}
+.modal-window h1 {
+  font-size: 100%;
+  margin: 0 0 15px;
+}
+
+.modal-close {
+  color: #aaa;
+  line-height: 50px;
+  font-size: 80%;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 0;
+  width: 70px;
+  text-decoration: none;
+}
+  
+.modal-close:hover {
+  color: black;
+}
+.modal-close:target {
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: auto;
+}
+
+/* popover.css, by chapel; for use with popover.js; v1.0.0 */
+
+#ui-dialog-body.popover {
+    background: transparent;
+    border: 0;
+    padding: 0;
+}
+
+.popover #ui-dialog-titlebar {
+    background: transparent;
+}
+
+.popover #ui-dialog-title {
+    display: none;
+}
+
+.popover #ui-dialog-close {
+    position: fixed;
+    display: block;
+    top: 0;
+    right: 0;
+    height: 3em;
+}
+
+.popover #ui-dialog-close:hover {
+    background-color: transparent;
+    border-color: transparent;
+    color: #c22;
+}
+
+#ui-overlay.popover.opaque {
+    opacity: 1;
+}
+
+#ui-overlay.popover.transparent {
+    opacity: 0;
+}
+
+#ui-overlay.popover.invert {
+    background-color: #f8f8f8;
+}
+
+#ui-dialog-body.popover.invert {
+    color: #111;
+}
