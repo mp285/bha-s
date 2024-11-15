@@ -404,14 +404,44 @@ h3 {
     });
 
     setup.popover = popover;
-}());</script><tw-tag name="rail" color="blue"></tw-tag><tw-tag name="tie" color="none"></tw-tag><tw-tag name="about" color="purple"></tw-tag><tw-passagedata pid="1" name="StoryMenu" tags="structure" position="100,100" size="100,100">&lt;A HREF=&quot;javascript:window.print()&quot;&gt;Click to Print This Page&lt;/A&gt;
+}());
+
+/* outputter */
+
+// Function to convert history to CSV
+function exportHistoryToCSV() {
+    const history = State.history;
+    let csvContent = "data:text/csv;charset=utf-8,Passage,Variables\n";
+
+    history.forEach((entry, index) => {
+        const passageName = entry.title;
+        const variables = JSON.stringify(entry.variables);
+        csvContent += `${passageName},${variables}\n`;
+    });
+
+    // Encode CSV content
+    const encodedUri = encodeURI(csvContent);
+    const link = document.createElement("a");
+    link.setAttribute("href", encodedUri);
+    link.setAttribute("download", "story_history.csv");
+    document.body.appendChild(link);
+
+    link.click();
+    document.body.removeChild(link);
+}
+
+// Add a button to call the export function
+$(document).on('click', '#export-history', function() {
+    exportHistoryToCSV();
+});</script><tw-tag name="rail" color="blue"></tw-tag><tw-tag name="tie" color="none"></tw-tag><tw-tag name="about" color="purple"></tw-tag><tw-passagedata pid="1" name="StoryMenu" tags="structure" position="100,100" size="100,100">&lt;A HREF=&quot;javascript:window.print()&quot;&gt;Click to Print This Page&lt;/A&gt;
 &lt;input type=&quot;button&quot; value=&quot;Print&quot; onClick=&quot;window.print()&quot;&gt;
 &lt;br/&gt;
 [[Compass]]
 &lt;br/&gt;
 [[Begin|Preamble]]
 [[Index]]
-[[Works Cited]]</tw-passagedata><tw-passagedata pid="2" name="Compass" tags="" position="225,100" size="100,100">&lt;b&gt;islands&lt;/b&gt;
+[[Works Cited]]
+&lt;button id=&quot;export-history&quot;&gt;Download History as CSV&lt;/button&gt;</tw-passagedata><tw-passagedata pid="2" name="Compass" tags="" position="225,100" size="100,100">&lt;b&gt;islands&lt;/b&gt;
 
 [[shange epi]]
 [[drucker quote]]
