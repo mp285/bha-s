@@ -72,6 +72,36 @@ bha-s has merged
     setup.popover = popover;
 }());
 
+/* outputter */
+
+// Function to convert history to CSV
+function exportHistoryToCSV() {
+    const history = State.history;
+    let csvContent = "data:text/csv;charset=utf-8,Passage,Variables\n";
+
+    history.forEach((entry, index) => {
+        const passageName = entry.title;
+        const variables = JSON.stringify(entry.variables);
+        csvContent += `${passageName},${variables}\n`;
+    });
+
+    // Encode CSV content
+    const encodedUri = encodeURI(csvContent);
+    const link = document.createElement("a");
+    link.setAttribute("href", encodedUri);
+    link.setAttribute("download", "story_history.csv");
+    document.body.appendChild(link);
+
+    link.click();
+    document.body.removeChild(link);
+}
+
+// Add a button to call the export function
+$(document).on('click', '#export-history', function() {
+    exportHistoryToCSV();
+});
+
+
 :: UserStylesheet[stylesheet]
 UserStylesheet[stylesheet]
 /* landing_page */
@@ -341,6 +371,7 @@ h3 {
 [[Begin|Preamble]]
 [[Index]]
 [[Works Cited]]
+<button id="export-history">Download History as CSV</button>
 
 :: Compass
 
