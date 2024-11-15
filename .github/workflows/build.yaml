@@ -11,13 +11,14 @@ jobs:
     steps:
       - uses: actions/checkout@v1
 
-      - name: Use Go 1.13
+      - name: Use Go 1.17
         uses: actions/setup-go@v1
         with:
-          go-version: 1.13.x
+          go-version: 1.17.x
 
       - name: build game
         run: |
+          go env -w GO111MODULE=off
           go get github.com/tmedwards/tweego
           export PATH=$PATH:$(go env GOPATH)/bin
           tweego bha-s.twee -o index.html
