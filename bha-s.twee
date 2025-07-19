@@ -10,7 +10,7 @@ bha-s has merged
   "start": "Preamble",
   "tag-colors": {
     "rail": "blue",
-    "tie": "none",
+    "tie": "red",
     "about": "purple"
   },
   "zoom": 0.3
